@@ -1,0 +1,7 @@
+[a] 0.5
+[peak] 0.5
+[ms_timeout] 999
+[detSteps] 199
+[stepSize] 90
+[est_path_ length] 17910
+[map] /mnt/sdcard/dCollector/hoern_eg_triv.osm

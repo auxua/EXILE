@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<osm version="0.6" generator="ichwars">
+<bounds minlat="-20.1585328" minlon="-40.4654551" maxlat="20.4852154" maxlon="40.5879648" />
+
+<node id="1" lat="5.0000" lon="6.000" version="1" />
+
+<node id="2" lat="4.99995930648" lon="6.0" version="1" />
+
+<!-- 100m way from (1) to (2) -->
+<way id="1" visible="true">
+	<nd ref="1" />
+	<nd ref="2" />
+	<tag k="highway" v="trunk" />
+	<tag k="name" v="teststrasse" />
+</way>
+
+</osm>

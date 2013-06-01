@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-16' timestamp='2011-03-28T18:15:09Z' visible='true' lat='50.7791257' lon='6.0589091' />
+  <node id='-14' timestamp='2011-03-28T18:15:11Z' visible='true' lat='50.7790592' lon='6.0589234' />
+  <node id='-12' timestamp='2012-01-24T17:00:11Z' visible='true' lat='50.7791601' lon='6.0589008' />
+  <node id='-10' timestamp='2011-03-28T18:15:01Z' visible='true' lat='50.7787671' lon='6.0588124' />
+  <node id='-8' timestamp='2011-03-28T18:15:11Z' visible='true' lat='50.778787' lon='6.0589103' />
+  <node id='-6' timestamp='2011-03-28T18:15:03Z' visible='true' lat='50.7790286' lon='6.0587806' />
+  <node id='-4' timestamp='2011-03-28T18:15:08Z' visible='true' lat='50.7788165' lon='6.059056' />
+  <way id='-20' timestamp='2010-10-28T15:06:22Z' visible='true'>
+    <nd ref='-14' />
+    <nd ref='-16' />
+    <nd ref='-12' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='-18' action='modify' timestamp='2011-03-28T18:15:16Z' visible='true'>
+    <nd ref='-8' />
+    <nd ref='-6' />
+    <nd ref='-14' />
+    <nd ref='-4' />
+    <nd ref='-8' />
+    <nd ref='-10' />
+    <tag k='highway' v='service' />
+    <tag k='service' v='parking_aisle' />
+  </way>
+</osm>

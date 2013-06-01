@@ -1,0 +1,28 @@
+EXILE - The EXtensible Indoor Localization Emulator
+
+== What is this? ==
+
+This is an emulator which was developed during the bachelor thesis at RWTH Aachen University about Integrating Orthognal Localization Methods. (if you are interested: http://datp.de/thesis/thesis.pdf )
+This Emulator uses formatted data of runs to emulate the behaviour of the localization modules.
+
+
+== What modules? ==
+
+Currently there are implementations for Mobile Tagging (e.g. QR Codes), Step Detection and matching, Wifi Fingerprinting, Floor Color and GPS.
+
+
+== What about details? ==
+
+You can find them in the thesis and in the javadoc.
+
+
+== What systems/APIs/Applications have been used/are needed ==
+
+The Android Application WiFiWar (see my other repos) has been used for simply collecting Wifi Fingerprints (having a map of the area)
+The maps come from the OpenStreetmap Project ( http://osm.org )
+The data has been collected by using the dCollector Android Application initially developed by Felix Gerdsmeier.
+
+
+== Thanks ==
+
+Thanks to the Comsys Chair of Computer Science at RWTH Aachen University, the examiners of this thesis and the participants of the walks

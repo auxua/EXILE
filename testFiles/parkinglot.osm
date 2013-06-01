@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.0.2" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="50.7784980" minlon="6.0602580" maxlat="50.7791590" maxlon="6.0612510"/>
+ <node id="828483253" lat="50.7785727" lon="6.0597100" user="Head" uid="25504" visible="true" version="8" changeset="11266212" timestamp="2012-04-11T15:14:06Z">
+  <tag k="entrance" v="main"/>
+  <tag k="note" v="nur im Sommersemester geöffnet"/>
+ </node>
+ <node id="1604892529" lat="50.7779844" lon="6.0618826" user="Head" uid="25504" visible="true" version="1" changeset="10493643" timestamp="2012-01-25T13:33:53Z"/>
+ <node id="300765502" lat="50.7785624" lon="6.0602266" user="Head" uid="25504" visible="true" version="4" changeset="7696301" timestamp="2011-03-28T12:46:47Z"/>
+ <node id="300765499" lat="50.7783381" lon="6.0605689" user="Head" uid="25504" visible="true" version="4" changeset="7696301" timestamp="2011-03-28T12:46:46Z"/>
+ <node id="838711853" lat="50.7785571" lon="6.0601154" user="Head" uid="25504" visible="true" version="5" changeset="11266212" timestamp="2012-04-11T15:14:06Z">
+  <tag k="entrance" v="yes"/>
+  <tag k="level" v="-1"/>
+ </node>
+ <node id="838711870" lat="50.7785347" lon="6.0605082" user="jabl" uid="87358" visible="true" version="5" changeset="7896055" timestamp="2011-04-18T11:36:19Z"/>
+ <node id="395603941" lat="50.7782117" lon="6.0598124" user="Head" uid="25504" visible="true" version="3" changeset="7696301" timestamp="2011-03-28T12:46:52Z"/>
+ <node id="395603950" lat="50.7785727" lon="6.0598438" user="Head" uid="25504" visible="true" version="3" changeset="7696301" timestamp="2011-03-28T12:46:58Z"/>
+ <node id="300765492" lat="50.7780211" lon="6.0601297" user="Head" uid="25504" visible="true" version="4" changeset="7696301" timestamp="2011-03-28T12:46:55Z"/>
+ <node id="1369126594" lat="50.7784154" lon="6.0608609" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:42Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="3"/>
+ </node>
+ <node id="205485782" lat="50.7785922" lon="6.0604252" user="Bürste" uid="61341" visible="true" version="3" changeset="1409410" timestamp="2009-06-03T00:53:31Z"/>
+ <node id="1369126680" lat="50.7784889" lon="6.0608218" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:45Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="2"/>
+ </node>
+ <node id="1369126588" lat="50.7784130" lon="6.0608615" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:42Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="2"/>
+ </node>
+ <node id="1110622527" lat="50.7788550" lon="6.0599672" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:40Z"/>
+ <node id="982622438" lat="50.7794801" lon="6.0589695" user="Head" uid="25504" visible="true" version="3" changeset="7696301" timestamp="2011-03-28T12:46:53Z"/>
+ <node id="309163168" lat="50.7792850" lon="6.0592016" user="Head" uid="25504" visible="true" version="6" changeset="7696301" timestamp="2011-03-28T12:46:46Z"/>
+ <node id="1369126365" lat="50.7782844" lon="6.0609291" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:34Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="2"/>
+ </node>
+ <node id="1369126714" lat="50.7785202" lon="6.0608044" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:46Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="2"/>
+ </node>
+ <node id="1154344345" lat="50.7785582" lon="6.0604733" user="Head" uid="25504" visible="true" version="1" changeset="7294261" timestamp="2011-02-15T12:03:34Z">
+  <tag k="barrier" v="bollard"/>
+ </node>
+ <node id="1369126364" lat="50.7782844" lon="6.0609291" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:34Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="3"/>
+ </node>
+ <node id="293160358" lat="50.7779508" lon="6.0616748" user="Head" uid="25504" visible="true" version="4" changeset="10493643" timestamp="2012-01-25T13:34:42Z"/>
+ <node id="1110622529" lat="50.7786498" lon="6.0599273" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:38Z"/>
+ <node id="1369126621" lat="50.7784435" lon="6.0608443" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:43Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="1"/>
+ </node>
+ <node id="1369126698" lat="50.7785111" lon="6.0608098" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:46Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="1"/>
+ </node>
+ <node id="1369126585" lat="50.7784130" lon="6.0608615" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:42Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="0"/>
+ </node>
+ <node id="1110622556" lat="50.7785421" lon="6.0601341" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:40Z"/>
+ <node id="1369126554" lat="50.7783795" lon="6.0608809" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:41Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="1"/>
+ </node>
+ <node id="309163150" lat="50.7785370" lon="6.0594312" user="Head" uid="25504" visible="true" version="5" changeset="7696301" timestamp="2011-03-28T12:46:57Z"/>
+ <node id="828483248" lat="50.7795443" lon="6.0588354" user="Head" uid="25504" visible="true" version="6" changeset="11266212" timestamp="2012-04-11T15:13:35Z">
+  <tag k="addr:city" v="Aachen"/>
+  <tag k="addr:country" v="DE"/>
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="addr:postcode" v="52074"/>
+  <tag k="addr:street" v="Ahornstraße"/>
+  <tag k="entrance" v="main"/>
+ </node>
+ <node id="861830049" lat="50.7779350" lon="6.0615108" user="Head" uid="25504" visible="true" version="3" changeset="10493643" timestamp="2012-01-25T13:34:44Z"/>
+ <node id="1369126622" lat="50.7784435" lon="6.0608443" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:43Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="0"/>
+ </node>
+ <node id="1369126639" lat="50.7784543" lon="6.0608386" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:44Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="2"/>
+ </node>
+ <node id="1369126600" lat="50.7784210" lon="6.0608567" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:42Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="2"/>
+ </node>
+ <node id="1369126556" lat="50.7783803" lon="6.0608788" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:41Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="2"/>
+ </node>
+ <node id="300765498" lat="50.7783802" lon="6.0607613" user="Head" uid="25504" visible="true" version="4" changeset="7696301" timestamp="2011-03-28T12:46:59Z"/>
+ <node id="65134812" lat="50.7789939" lon="6.0602810" user="Head" uid="25504" visible="true" version="4" changeset="7699639" timestamp="2011-03-28T18:20:49Z"/>
+ <node id="1369126637" lat="50.7784513" lon="6.0608412" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:44Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="0"/>
+ </node>
+ <node id="1336814230" lat="50.7785140" lon="6.0613607" user="Head" uid="25504" visible="true" version="3" changeset="10493643" timestamp="2012-01-25T13:34:39Z"/>
+ <node id="395604051" lat="50.7791568" lon="6.0609986" user="Head" uid="25504" visible="true" version="3" changeset="13819004" timestamp="2012-11-10T10:37:45Z"/>
+ <node id="1369126541" lat="50.7783589" lon="6.0608899" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:40Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="2"/>
+ </node>
+ <node id="300765583" lat="50.7786372" lon="6.0599552" user="Head" uid="25504" visible="true" version="6" changeset="7696301" timestamp="2011-03-28T12:46:51Z"/>
+ <node id="1369126627" lat="50.7784467" lon="6.0608446" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:43Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="3"/>
+ </node>
+ <node id="982617159" lat="50.7794576" lon="6.0586876" user="Head" uid="25504" visible="true" version="4" changeset="7696301" timestamp="2011-03-28T12:46:38Z"/>
+ <node id="1369126524" lat="50.7783481" lon="6.0608963" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:39Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="3"/>
+ </node>
+ <node id="1596206658" lat="50.7783629" lon="6.0610297" user="Head" uid="25504" visible="true" version="2" changeset="11266212" timestamp="2012-04-11T15:14:05Z">
+  <tag k="entrance" v="exit"/>
+  <tag k="note" v="Tagsüber nicht abgeschlossen, aber von außen keine Klinke."/>
+ </node>
+ <node id="395603949" lat="50.7786303" lon="6.0598344" user="Head" uid="25504" visible="true" version="3" changeset="7696301" timestamp="2011-03-28T12:46:49Z"/>
+ <node id="1369126366" lat="50.7782844" lon="6.0609291" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:34Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="1"/>
+ </node>
+ <node id="309163158" lat="50.7786579" lon="6.0592306" user="Head" uid="25504" visible="true" version="5" changeset="7696301" timestamp="2011-03-28T12:46:40Z"/>
+ <node id="1110622532" lat="50.7780506" lon="6.0602688" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:39Z"/>
+ <node id="1110622499" lat="50.7785582" lon="6.0601235" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:52Z"/>
+ <node id="1369129313" lat="50.7785170" lon="6.0607917" user="mister-viper" uid="514902" visible="true" version="3" changeset="10106817" timestamp="2011-12-13T11:30:20Z">
+  <tag k="highway" v="door"/>
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="2"/>
+  <tag k="name" v="6208"/>
+ </node>
+ <node id="1110622508" lat="50.7779959" lon="6.0605025" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:56Z"/>
+ <node id="36831065" lat="50.7792274" lon="6.0612546" user="Head" uid="25504" visible="true" version="4" changeset="10493643" timestamp="2012-01-25T13:34:43Z"/>
+ <node id="1110622562" lat="50.7795486" lon="6.0588585" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:38Z"/>
+ <node id="1110622541" lat="50.7780084" lon="6.0605290" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:46Z"/>
+ <node id="44489151" lat="50.7788283" lon="6.0610430" user="Head" uid="25504" visible="true" version="6" changeset="10493643" timestamp="2012-01-25T13:34:44Z"/>
+ <node id="300765504" lat="50.7788747" lon="6.0600588" user="Head" uid="25504" visible="true" version="5" changeset="7696301" timestamp="2011-03-28T12:46:42Z"/>
+ <node id="1603590197" lat="50.7790833" lon="6.0610458" user="Head" uid="25504" visible="true" version="2" changeset="10493643" timestamp="2012-01-25T13:34:39Z"/>
+ <node id="1272069069" lat="50.7788691" lon="6.0600328" user="Head" uid="25504" visible="true" version="1" changeset="8049522" timestamp="2011-05-04T14:27:48Z"/>
+ <node id="1604892533" lat="50.7783871" lon="6.0617405" user="Head" uid="25504" visible="true" version="1" changeset="10493643" timestamp="2012-01-25T13:33:53Z"/>
+ <node id="65134840" lat="50.7786713" lon="6.0611260" user="Head" uid="25504" visible="true" version="4" changeset="10493643" timestamp="2012-01-25T13:34:44Z"/>
+ <node id="982622421" lat="50.7795097" lon="6.0591126" user="Head" uid="25504" visible="true" version="3" changeset="7696301" timestamp="2011-03-28T12:46:57Z"/>
+ <node id="1369126576" lat="50.7783915" lon="6.0608739" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:42Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="3"/>
+ </node>
+ <node id="1369126549" lat="50.7783792" lon="6.0608800" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:40Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="3"/>
+ </node>
+ <node id="1369126483" lat="50.7783179" lon="6.0609107" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:38Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="1"/>
+ </node>
+ <node id="1369126635" lat="50.7784513" lon="6.0608412" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:44Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="1"/>
+ </node>
+ <node id="1110622509" lat="50.7794877" lon="6.0588303" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:40Z"/>
+ <node id="300765483" lat="50.7780100" lon="6.0610883" user="Head" uid="25504" visible="true" version="4" changeset="7696301" timestamp="2011-03-28T12:46:40Z"/>
+ <node id="300765495" lat="50.7783520" lon="6.0602131" user="Head" uid="25504" visible="true" version="5" changeset="7696301" timestamp="2011-03-28T12:46:57Z"/>
+ <node id="1369126486" lat="50.7783180" lon="6.0609117" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:38Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="3"/>
+ </node>
+ <node id="1223369318" lat="50.7780300" lon="6.0614649" user="Head" uid="25504" visible="true" version="3" changeset="10493643" timestamp="2012-01-25T13:34:39Z"/>
+ <node id="1110622537" lat="50.7785555" lon="6.0601067" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:58Z"/>
+ <node id="1110622531" lat="50.7795397" lon="6.0588103" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:56Z"/>
+ <node id="1110622520" lat="50.7793563" lon="6.0591608" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:51Z"/>
+ <node id="309163162" lat="50.7791408" lon="6.0586046" user="Head" uid="25504" visible="true" version="6" changeset="7696301" timestamp="2011-03-28T12:46:52Z"/>
+ <node id="838715117" lat="50.7785362" lon="6.0593037" user="Head" uid="25504" visible="true" version="3" changeset="7696301" timestamp="2011-03-28T12:46:43Z"/>
+ <node id="1110622564" lat="50.7786148" lon="6.0595949" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:54Z"/>
+ <node id="1911427126" lat="50.7794139" lon="6.0598466" user="Head" uid="25504" visible="true" version="3" changeset="13819004" timestamp="2012-11-10T10:37:45Z"/>
+ <node id="1369126674" lat="50.7784860" lon="6.0608235" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:45Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="0"/>
+ </node>
+ <node id="1369126569" lat="50.7783895" lon="6.0608753" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:41Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="2"/>
+ </node>
+ <node id="1336814231" lat="50.7784916" lon="6.0612725" user="Head" uid="25504" visible="true" version="3" changeset="10493643" timestamp="2012-01-25T13:34:39Z"/>
+ <node id="982617157" lat="50.7791985" lon="6.0585815" user="Head" uid="25504" visible="true" version="3" changeset="7696301" timestamp="2011-03-28T12:46:41Z"/>
+ <node id="1249799678" lat="50.7781885" lon="6.0607235" user="Head" uid="25504" visible="true" version="6" changeset="11266212" timestamp="2012-04-11T15:14:04Z">
+  <tag k="entrance" v="yes"/>
+  <tag k="level" v="0"/>
+ </node>
+ <node id="300765486" lat="50.7781831" lon="6.0606957" user="Head" uid="25504" visible="true" version="4" changeset="7696301" timestamp="2011-03-28T12:46:41Z"/>
+ <node id="1369126536" lat="50.7783543" lon="6.0608920" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:40Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="0"/>
+ </node>
+ <node id="1911427123" lat="50.7790382" lon="6.0604488" user="Head" uid="25504" visible="true" version="3" changeset="13819004" timestamp="2012-11-10T10:37:45Z"/>
+ <node id="838711856" lat="50.7783443" lon="6.0605984" user="Head" uid="25504" visible="true" version="5" changeset="11266212" timestamp="2012-04-11T15:14:07Z">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="300765481" lat="50.7780545" lon="6.0612947" user="Head" uid="25504" visible="true" version="4" changeset="7696301" timestamp="2011-03-28T12:46:46Z"/>
+ <node id="1110622511" lat="50.7793400" lon="6.0590811" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:37Z"/>
+ <node id="1369126596" lat="50.7784186" lon="6.0608571" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:42Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="1"/>
+ </node>
+ <node id="1369128973" lat="50.7785075" lon="6.0607957" user="mister-viper" uid="514902" visible="true" version="2" changeset="9953858" timestamp="2011-11-26T10:39:27Z">
+  <tag k="highway" v="door"/>
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="0"/>
+  <tag k="name" v="6009"/>
+ </node>
+ <node id="309163170" lat="50.7785717" lon="6.0595841" user="Head" uid="25504" visible="true" version="5" changeset="7696301" timestamp="2011-03-28T12:46:39Z"/>
+ <node id="65134819" lat="50.7791303" lon="6.0608834" user="Head" uid="25504" visible="true" version="6" changeset="10493643" timestamp="2012-01-25T13:34:44Z"/>
+ <node id="1223369287" lat="50.7780087" lon="6.0613637" user="Head" uid="25504" visible="true" version="3" changeset="10493643" timestamp="2012-01-25T13:34:39Z">
+  <tag k="barrier" v="bollard"/>
+ </node>
+ <node id="1110622514" lat="50.7787258" lon="6.0595353" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:47Z"/>
+ <node id="1911427119" lat="50.7789612" lon="6.0600854" user="Head" uid="25504" visible="true" version="3" changeset="13819004" timestamp="2012-11-10T10:37:45Z"/>
+ <node id="1369126131" lat="50.7793695" lon="6.0590668" user="mister-viper" uid="514902" visible="true" version="2" changeset="9953858" timestamp="2011-11-26T10:38:45Z">
+  <tag k="highway" v="door"/>
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="0"/>
+  <tag k="name" v="Mensa"/>
+ </node>
+ <node id="1369126481" lat="50.7783179" lon="6.0609107" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:38Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="2"/>
+ </node>
+ <node id="1132229937" lat="50.7786240" lon="6.0608963" user="Head" uid="25504" visible="true" version="4" changeset="7699573" timestamp="2011-03-28T18:15:06Z"/>
+ <node id="1369126653" lat="50.7784778" lon="6.0608266" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:44Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="1"/>
+ </node>
+ <node id="65134827" lat="50.7787397" lon="6.0603755" user="Head" uid="25504" visible="true" version="3" changeset="7163325" timestamp="2011-02-02T10:43:59Z"/>
+ <node id="1132229949" lat="50.7791525" lon="6.0608717" user="Head" uid="25504" visible="true" version="3" changeset="10493643" timestamp="2012-01-25T13:34:38Z"/>
+ <node id="1369126647" lat="50.7784571" lon="6.0608394" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:44Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="3"/>
+ </node>
+ <node id="1369126358" lat="50.7782844" lon="6.0609291" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:34Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="0"/>
+ </node>
+ <node id="300765487" lat="50.7780186" lon="6.0607795" user="Head" uid="25504" visible="true" version="4" changeset="7696301" timestamp="2011-03-28T12:46:51Z"/>
+ <node id="1369126517" lat="50.7783479" lon="6.0608942" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:39Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="2"/>
+ </node>
+ <node id="1110622482" lat="50.7787188" lon="6.0595045" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:56Z"/>
+ <node id="65134824" lat="50.7787499" lon="6.0604249" user="Head" uid="25504" visible="true" version="5" changeset="7699639" timestamp="2011-03-28T18:20:49Z"/>
+ <node id="982617155" lat="50.7792463" lon="6.0588020" user="Head" uid="25504" visible="true" version="3" changeset="7696301" timestamp="2011-03-28T12:46:51Z"/>
+ <node id="773167621" lat="50.7792736" lon="6.0607707" user="Head" uid="25504" visible="true" version="3" changeset="13819004" timestamp="2012-11-10T10:37:45Z"/>
+ <node id="1110622513" lat="50.7780862" lon="6.0602539" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:38Z"/>
+ <node id="300765501" lat="50.7784196" lon="6.0605286" user="Head" uid="25504" visible="true" version="4" changeset="7696301" timestamp="2011-03-28T12:46:38Z"/>
+ <node id="1336814229" lat="50.7786213" lon="6.0612000" user="Head" uid="25504" visible="true" version="3" changeset="10493643" timestamp="2012-01-25T13:34:39Z"/>
+ <node id="44489155" lat="50.7786955" lon="6.0604570" user="Head" uid="25504" visible="true" version="5" changeset="7699639" timestamp="2011-03-28T18:20:50Z"/>
+ <node id="1369126519" lat="50.7783479" lon="6.0608942" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:39Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="0"/>
+ </node>
+ <node id="1369126607" lat="50.7784249" lon="6.0608558" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:43Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="3"/>
+ </node>
+ <node id="982622423" lat="50.7795437" lon="6.0590792" user="Head" uid="25504" visible="true" version="3" changeset="7696301" timestamp="2011-03-28T12:46:52Z"/>
+ <node id="1369126663" lat="50.7784797" lon="6.0608257" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:45Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="2"/>
+ </node>
+ <node id="1132229969" lat="50.7793088" lon="6.0604640" user="radler99" uid="685157" visible="true" version="2" changeset="13653198" timestamp="2012-10-27T19:06:18Z"/>
+ <node id="395603944" lat="50.7782517" lon="6.0600063" user="Head" uid="25504" visible="true" version="3" changeset="7696301" timestamp="2011-03-28T12:46:53Z"/>
+ <node id="826196499" lat="50.7788854" lon="6.0602081" user="Head" uid="25504" visible="true" version="3" changeset="8169804" timestamp="2011-05-17T09:33:31Z"/>
+ <node id="1369129318" lat="50.7785142" lon="6.0608258" user="mister-viper" uid="514902" visible="true" version="2" changeset="9943047" timestamp="2011-11-25T11:11:47Z">
+  <tag k="highway" v="door"/>
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="2"/>
+  <tag k="name" v="6210"/>
+ </node>
+ <node id="828483242" lat="50.7785357" lon="6.0592365" user="Head" uid="25504" visible="true" version="3" changeset="7696301" timestamp="2011-03-28T12:46:40Z"/>
+ <node id="1110622505" lat="50.7788380" lon="6.0599759" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:55Z"/>
+ <node id="1110622565" lat="50.7779789" lon="6.0603702" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:39Z"/>
+ <node id="1110622502" lat="50.7780318" lon="6.0605799" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:53Z"/>
+ <node id="1369126522" lat="50.7783479" lon="6.0608942" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:39Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="1"/>
+ </node>
+ <node id="300765480" lat="50.7783832" lon="6.0611194" user="Head" uid="25504" visible="true" version="5" changeset="7696301" timestamp="2011-03-28T12:46:37Z"/>
+ <node id="44489171" lat="50.7788499" lon="6.0603659" user="Head" uid="25504" visible="true" version="5" changeset="7699639" timestamp="2011-03-28T18:20:50Z"/>
+ <node id="1369126692" lat="50.7785111" lon="6.0608098" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:46Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="0"/>
+ </node>
+ <node id="205485686" lat="50.7784521" lon="6.0620977" user="Head" uid="25504" visible="true" version="3" changeset="10493643" timestamp="2012-01-25T13:34:41Z"/>
+ <node id="300765477" lat="50.7785506" lon="6.0608970" user="Head" uid="25504" visible="true" version="4" changeset="7696301" timestamp="2011-03-28T12:46:58Z"/>
+ <node id="309163160" lat="50.7791976" lon="6.0589857" user="Head" uid="25504" visible="true" version="6" changeset="7696301" timestamp="2011-03-28T12:46:57Z"/>
+ <node id="1369126660" lat="50.7784787" lon="6.0608290" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:45Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="3"/>
+ </node>
+ <node id="1110622533" lat="50.7786099" lon="6.0595646" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:48Z"/>
+ <node id="1110622535" lat="50.7779804" lon="6.0604347" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:41Z"/>
+ <node id="1369126624" lat="50.7784456" lon="6.0608430" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:43Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="2"/>
+ </node>
+ <node id="1369126551" lat="50.7783795" lon="6.0608809" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:41Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="0"/>
+ </node>
+ <node id="1110622530" lat="50.7779813" lon="6.0606064" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:47Z"/>
+ <node id="44489165" lat="50.7789846" lon="6.0609604" user="Head" uid="25504" visible="true" version="6" changeset="10493643" timestamp="2012-01-25T13:34:44Z"/>
+ <node id="300765489" lat="50.7779823" lon="6.0603395" user="Head" uid="25504" visible="true" version="4" changeset="7696301" timestamp="2011-03-28T12:46:53Z"/>
+ <node id="1132229959" lat="50.7785160" lon="6.0604268" user="Head" uid="25504" visible="true" version="4" changeset="7699573" timestamp="2011-03-28T18:15:04Z"/>
+ <node id="1336814241" lat="50.7786408" lon="6.0612906" user="Head" uid="25504" visible="true" version="3" changeset="10493643" timestamp="2012-01-25T13:34:39Z"/>
+ <node id="1911427129" lat="50.7794910" lon="6.0602100" user="Head" uid="25504" visible="true" version="3" changeset="13819004" timestamp="2012-11-10T10:37:45Z"/>
+ <node id="65134849" lat="50.7784575" lon="6.0601720" user="Head" uid="25504" visible="true" version="4" changeset="7699573" timestamp="2011-03-28T18:15:14Z"/>
+ <node id="1369126591" lat="50.7784130" lon="6.0608615" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:42Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="1"/>
+ </node>
+ <node id="1603590190" lat="50.7789348" lon="6.0610179" user="Head" uid="25504" visible="true" version="1" changeset="10485066" timestamp="2012-01-24T14:33:10Z"/>
+ <node id="1110622495" lat="50.7780269" lon="6.0605554" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:51Z"/>
+ <node id="1110622523" lat="50.7779856" lon="6.0604684" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:55Z"/>
+ <node id="1369126544" lat="50.7783593" lon="6.0608903" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:40Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="3"/>
+ </node>
+ <node id="1110622539" lat="50.7783073" lon="6.0597652" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:54Z"/>
+ <node id="1110622507" lat="50.7785777" lon="6.0598628" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:49Z"/>
+ <node id="1369126395" lat="50.7782909" lon="6.0609261" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:35Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="3"/>
+ </node>
+ <node id="300765505" lat="50.7788148" lon="6.0598610" user="Head" uid="25504" visible="true" version="4" changeset="7696301" timestamp="2011-03-28T12:46:53Z"/>
+ <node id="1110622516" lat="50.7779786" lon="6.0604020" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:39Z"/>
+ <node id="1369129151" lat="50.7785224" lon="6.0608192" user="mister-viper" uid="514902" visible="true" version="2" changeset="9943047" timestamp="2011-11-25T11:11:46Z">
+  <tag k="highway" v="door"/>
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="1"/>
+  <tag k="name" v="6110"/>
+ </node>
+ <node id="205485784" lat="50.7793534" lon="6.0606529" user="Bürste" uid="61341" visible="true" version="3" changeset="1409410" timestamp="2009-06-03T00:53:31Z"/>
+ <node id="982622418" lat="50.7793769" lon="6.0590621" user="Head" uid="25504" visible="true" version="3" changeset="7696301" timestamp="2011-03-28T12:46:56Z"/>
+ <node id="1369126564" lat="50.7783879" lon="6.0608770" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:41Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="0"/>
+ </node>
+ <node id="1369129145" lat="50.7785075" lon="6.0607957" user="mister-viper" uid="514902" visible="true" version="2" changeset="9943047" timestamp="2011-11-25T11:11:45Z">
+  <tag k="highway" v="door"/>
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="1"/>
+  <tag k="name" v="6109"/>
+ </node>
+ <node id="1369129499" lat="50.7785008" lon="6.0608245" user="mister-viper" uid="514902" visible="true" version="2" changeset="9943047" timestamp="2011-11-25T11:11:48Z">
+  <tag k="highway" v="door"/>
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="3"/>
+  <tag k="name" v="6308.1"/>
+ </node>
+ <node id="293160359" lat="50.7779245" lon="6.0614000" user="Head" uid="25504" visible="true" version="4" changeset="10493643" timestamp="2012-01-25T13:34:42Z"/>
+ <node id="1110622481" lat="50.7783149" lon="6.0598046" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:47Z"/>
+ <node id="1369126716" lat="50.7785202" lon="6.0608044" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:46Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="1"/>
+ </node>
+ <node id="300765496" lat="50.7785093" lon="6.0606964" user="Head" uid="25504" visible="true" version="4" changeset="7696301" timestamp="2011-03-28T12:46:40Z"/>
+ <node id="1369126568" lat="50.7783879" lon="6.0608770" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:41Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="1"/>
+ </node>
+ <node id="1249800237" lat="50.7781995" lon="6.0607784" user="Head" uid="25504" visible="true" version="6" changeset="11266212" timestamp="2012-04-11T15:14:04Z">
+  <tag k="entrance" v="yes"/>
+  <tag k="level" v="0"/>
+ </node>
+ <node id="1603590195" lat="50.7790599" lon="6.0609443" user="Head" uid="25504" visible="true" version="1" changeset="10485066" timestamp="2012-01-24T14:33:10Z"/>
+ <node id="205485773" lat="50.7789468" lon="6.0602307" user="radler99" uid="685157" visible="true" version="4" changeset="13653198" timestamp="2012-10-27T19:06:18Z"/>
+ <node id="1226702248" lat="50.7780895" lon="6.0602686" user="Head" uid="25504" visible="true" version="2" changeset="11266212" timestamp="2012-04-11T15:14:04Z">
+  <tag k="entrance" v="emergency"/>
+ </node>
+ <node id="293160356" lat="50.7787236" lon="6.0609895" user="Head" uid="25504" visible="true" version="5" changeset="10493643" timestamp="2012-01-25T13:34:42Z"/>
+ <node id="1985994838" lat="50.7790307" lon="6.0606140" user="radler99" uid="685157" visible="true" version="1" changeset="13653198" timestamp="2012-10-27T19:06:18Z"/>
+ <node id="828483244" lat="50.7786273" lon="6.0592309" user="Head" uid="25504" visible="true" version="5" changeset="11266212" timestamp="2012-04-11T15:14:06Z">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="1604892539" lat="50.7792084" lon="6.0612497" user="Head" uid="25504" visible="true" version="2" changeset="13819004" timestamp="2012-11-10T10:37:45Z"/>
+ <node id="1110622561" lat="50.7786333" lon="6.0599345" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:52Z"/>
+ <node id="828483246" lat="50.7791834" lon="6.0588967" user="Head" uid="25504" visible="true" version="6" changeset="11266212" timestamp="2012-04-11T15:14:06Z">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="1110622506" lat="50.7795011" lon="6.0588867" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:40Z"/>
+ <node id="300765493" lat="50.7784866" lon="6.0601419" user="Head" uid="25504" visible="true" version="5" changeset="7696301" timestamp="2011-03-28T12:46:39Z"/>
+ <node id="300765490" lat="50.7780928" lon="6.0602832" user="Head" uid="25504" visible="true" version="4" changeset="7696301" timestamp="2011-03-28T12:46:38Z"/>
+ <node id="1369126694" lat="50.7785111" lon="6.0608098" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:46Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="2"/>
+ </node>
+ <node id="300765484" lat="50.7782362" lon="6.0609679" user="Head" uid="25504" visible="true" version="4" changeset="7696301" timestamp="2011-03-28T12:46:47Z"/>
+ <node id="2006122970" lat="50.7792504" lon="6.0609347" user="Head" uid="25504" visible="true" version="1" changeset="13819004" timestamp="2012-11-10T10:37:44Z"/>
+ <node id="1110622560" lat="50.7792842" lon="6.0591978" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:41Z"/>
+ <node id="205485673" lat="50.7785633" lon="6.0626668" user="Head" uid="25504" visible="true" version="3" changeset="10493643" timestamp="2012-01-25T13:34:41Z"/>
+ <node id="44489141" lat="50.7778699" lon="6.0615417" user="Head" uid="25504" visible="true" version="5" changeset="10493643" timestamp="2012-01-25T13:34:44Z"/>
+ <node id="1604892537" lat="50.7788495" lon="6.0628018" user="radler99" uid="685157" visible="true" version="2" changeset="13384282" timestamp="2012-10-06T12:26:11Z"/>
+ <node id="1369126598" lat="50.7784186" lon="6.0608571" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:42Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="0"/>
+ </node>
+ <node id="1369126673" lat="50.7784860" lon="6.0608235" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:45Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="1"/>
+ </node>
+ <node id="1272069065" lat="50.7789060" lon="6.0600274" user="Head" uid="25504" visible="true" version="2" changeset="8169804" timestamp="2011-05-17T09:33:32Z">
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="1369126533" lat="50.7783543" lon="6.0608920" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:40Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="1"/>
+ </node>
+ <node id="773158046" lat="50.7792153" lon="6.0608385" user="Head" uid="25504" visible="true" version="4" changeset="7699639" timestamp="2011-03-28T18:20:50Z"/>
+ <node id="1288845786" lat="50.7788941" lon="6.0599408" user="Head" uid="25504" visible="true" version="1" changeset="8169804" timestamp="2011-05-17T09:33:30Z"/>
+ <node id="65134834" lat="50.7785301" lon="6.0604882" user="Head" uid="25504" visible="true" version="7" changeset="7699573" timestamp="2011-03-28T18:15:09Z"/>
+ <node id="1603590193" lat="50.7789570" lon="6.0611156" user="Head" uid="25504" visible="true" version="2" changeset="10493643" timestamp="2012-01-25T13:34:39Z"/>
+ <node id="1154344326" lat="50.7787447" lon="6.0603997" user="Head" uid="25504" visible="true" version="1" changeset="7294261" timestamp="2011-02-15T12:03:34Z">
+  <tag k="barrier" v="bollard"/>
+ </node>
+ <node id="1369126655" lat="50.7784778" lon="6.0608266" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:44Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="0"/>
+ </node>
+ <node id="1110622553" lat="50.7786673" lon="6.0592671" user="Head" uid="25504" visible="true" version="2" changeset="7696301" timestamp="2011-03-28T12:46:39Z"/>
+ <node id="300765585" lat="50.7785393" lon="6.0596853" user="Head" uid="25504" visible="true" version="6" changeset="7696301" timestamp="2011-03-28T12:46:52Z"/>
+ <node id="300765478" lat="50.7783557" lon="6.0609980" user="Head" uid="25504" visible="true" version="4" changeset="7696301" timestamp="2011-03-28T12:46:45Z"/>
+ <node id="1132229929" lat="50.7787776" lon="6.0608047" user="Head" uid="25504" visible="true" version="2" changeset="7699639" timestamp="2011-03-28T18:20:49Z"/>
+ <node id="1369126676" lat="50.7784885" lon="6.0608226" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:03:45Z">
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="3"/>
+ </node>
+ <way id="97812571" user="Head" uid="25504" visible="true" version="3" changeset="7992302" timestamp="2011-04-28T08:33:30Z">
+  <nd ref="36831065"/>
+  <nd ref="1132229949"/>
+  <tag k="highway" v="service"/>
+  <tag k="maxheight" v="2"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="118923685" user="Oli-Wan" uid="293774" visible="true" version="1" changeset="8531900" timestamp="2011-06-24T11:54:56Z">
+  <nd ref="1336814229"/>
+  <nd ref="1336814241"/>
+  <nd ref="1336814230"/>
+  <nd ref="1336814231"/>
+  <nd ref="1336814229"/>
+  <tag k="building" v="yes"/>
+  <tag k="power" v="sub_station"/>
+ </way>
+ <way id="5761739" user="Head" uid="25504" visible="true" version="13" changeset="7992302" timestamp="2011-04-28T08:33:31Z">
+  <nd ref="44489141"/>
+  <nd ref="861830049"/>
+  <nd ref="1223369318"/>
+  <nd ref="65134840"/>
+  <nd ref="44489151"/>
+  <nd ref="44489165"/>
+  <nd ref="65134819"/>
+  <nd ref="1132229949"/>
+  <nd ref="773158046"/>
+  <nd ref="773167621"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="122549171" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:05:05Z">
+  <nd ref="1369126364"/>
+  <nd ref="1369126395"/>
+  <nd ref="1369126486"/>
+  <nd ref="1369126524"/>
+  <nd ref="1369126544"/>
+  <nd ref="1369126549"/>
+  <nd ref="1369126576"/>
+  <nd ref="1369126594"/>
+  <nd ref="1369126607"/>
+  <nd ref="1369126627"/>
+  <nd ref="1369126647"/>
+  <nd ref="1369126660"/>
+  <nd ref="1369126676"/>
+  <nd ref="1369129499"/>
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="3"/>
+  <tag k="wheelchair" v="yes"/>
+ </way>
+ <way id="147260597" user="Head" uid="25504" visible="true" version="3" changeset="13819004" timestamp="2012-11-10T10:37:45Z">
+  <nd ref="395604051"/>
+  <nd ref="1604892539"/>
+  <nd ref="1604892537"/>
+  <nd ref="205485673"/>
+  <nd ref="205485686"/>
+  <nd ref="1604892533"/>
+  <nd ref="1604892529"/>
+  <nd ref="293160358"/>
+  <nd ref="1336814230"/>
+  <nd ref="1336814241"/>
+  <nd ref="1603590193"/>
+  <nd ref="1603590197"/>
+  <nd ref="395604051"/>
+  <tag k="leisure" v="park"/>
+ </way>
+ <way id="84573635" user="Head" uid="25504" visible="true" version="10" changeset="10427314" timestamp="2012-01-18T13:07:48Z">
+  <nd ref="982622421"/>
+  <nd ref="982622438"/>
+  <nd ref="982622418"/>
+  <nd ref="1369126131"/>
+  <nd ref="1110622511"/>
+  <nd ref="1110622520"/>
+  <nd ref="1110622560"/>
+  <nd ref="309163168"/>
+  <nd ref="1110622482"/>
+  <nd ref="1110622514"/>
+  <nd ref="1110622564"/>
+  <nd ref="1110622533"/>
+  <nd ref="309163170"/>
+  <nd ref="828483253"/>
+  <nd ref="395603950"/>
+  <nd ref="1110622507"/>
+  <nd ref="395603949"/>
+  <nd ref="1110622529"/>
+  <nd ref="1110622561"/>
+  <nd ref="300765583"/>
+  <nd ref="300765505"/>
+  <nd ref="1110622505"/>
+  <nd ref="1110622527"/>
+  <nd ref="1272069069"/>
+  <nd ref="300765504"/>
+  <nd ref="300765502"/>
+  <nd ref="1110622556"/>
+  <nd ref="1110622499"/>
+  <nd ref="838711853"/>
+  <nd ref="1110622537"/>
+  <nd ref="300765493"/>
+  <nd ref="300765495"/>
+  <nd ref="300765501"/>
+  <nd ref="300765499"/>
+  <nd ref="838711856"/>
+  <nd ref="300765498"/>
+  <nd ref="300765496"/>
+  <nd ref="300765477"/>
+  <nd ref="300765478"/>
+  <nd ref="1596206658"/>
+  <nd ref="300765480"/>
+  <nd ref="300765481"/>
+  <nd ref="300765483"/>
+  <nd ref="300765484"/>
+  <nd ref="1249800237"/>
+  <nd ref="1249799678"/>
+  <nd ref="300765486"/>
+  <nd ref="300765487"/>
+  <nd ref="1110622530"/>
+  <nd ref="1110622502"/>
+  <nd ref="1110622495"/>
+  <nd ref="1110622541"/>
+  <nd ref="1110622508"/>
+  <nd ref="1110622523"/>
+  <nd ref="1110622535"/>
+  <nd ref="1110622516"/>
+  <nd ref="1110622565"/>
+  <nd ref="300765489"/>
+  <nd ref="300765490"/>
+  <nd ref="1226702248"/>
+  <nd ref="1110622513"/>
+  <nd ref="1110622532"/>
+  <nd ref="300765492"/>
+  <nd ref="395603944"/>
+  <nd ref="395603941"/>
+  <nd ref="1110622539"/>
+  <nd ref="1110622481"/>
+  <nd ref="300765585"/>
+  <nd ref="309163150"/>
+  <nd ref="838715117"/>
+  <nd ref="828483242"/>
+  <nd ref="828483244"/>
+  <nd ref="309163158"/>
+  <nd ref="1110622553"/>
+  <nd ref="309163160"/>
+  <nd ref="828483246"/>
+  <nd ref="309163162"/>
+  <nd ref="982617157"/>
+  <nd ref="982617155"/>
+  <nd ref="982617159"/>
+  <nd ref="1110622509"/>
+  <nd ref="1110622531"/>
+  <nd ref="828483248"/>
+  <nd ref="1110622562"/>
+  <nd ref="1110622506"/>
+  <nd ref="982622423"/>
+  <nd ref="982622421"/>
+  <tag k="alt_name" v="Alte PH"/>
+  <tag k="amenity" v="university"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Informatikzentrum"/>
+  <tag k="ref:RWTH" v="2350-2356"/>
+  <tag k="website" v="http://www.informatik.rwth-aachen.de"/>
+ </way>
+ <way id="8900850" user="Bürste" uid="61341" visible="true" version="4" changeset="1409410" timestamp="2009-06-03T01:09:00Z">
+  <nd ref="65134812"/>
+  <nd ref="65134819"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="parking_aisle"/>
+ </way>
+ <way id="122549657" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:05:59Z">
+  <nd ref="1369126694"/>
+  <nd ref="1369129318"/>
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="2"/>
+  <tag k="wheelchair" v="yes"/>
+ </way>
+ <way id="19753633" user="Head" uid="25504" visible="true" version="11" changeset="13819004" timestamp="2012-11-10T10:37:45Z">
+  <nd ref="293160356"/>
+  <nd ref="205485782"/>
+  <nd ref="205485773"/>
+  <nd ref="1985994838"/>
+  <nd ref="1132229969"/>
+  <nd ref="205485784"/>
+  <nd ref="2006122970"/>
+  <nd ref="395604051"/>
+  <nd ref="1603590197"/>
+  <nd ref="1603590193"/>
+  <nd ref="1336814241"/>
+  <nd ref="1336814230"/>
+  <nd ref="293160358"/>
+  <nd ref="861830049"/>
+  <nd ref="293160359"/>
+  <nd ref="1223369287"/>
+  <nd ref="293160356"/>
+  <tag k="access" v="private"/>
+  <tag k="amenity" v="parking"/>
+  <tag k="note" v="Nur mit RWTH-Parkausweis, Parkzone U"/>
+ </way>
+ <way id="5761740" user="Bürste" uid="61341" visible="true" version="4" changeset="1409410" timestamp="2009-06-03T01:10:45Z">
+  <nd ref="44489171"/>
+  <nd ref="44489165"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="parking_aisle"/>
+ </way>
+ <way id="122549174" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:05:06Z">
+  <nd ref="1369126366"/>
+  <nd ref="1369126483"/>
+  <nd ref="1369126522"/>
+  <nd ref="1369126533"/>
+  <nd ref="1369126554"/>
+  <nd ref="1369126568"/>
+  <nd ref="1369126591"/>
+  <nd ref="1369126596"/>
+  <nd ref="1369126621"/>
+  <nd ref="1369126635"/>
+  <nd ref="1369126653"/>
+  <nd ref="1369126673"/>
+  <nd ref="1369126698"/>
+  <nd ref="1369126716"/>
+  <nd ref="1369129151"/>
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="1"/>
+  <tag k="wheelchair" v="yes"/>
+ </way>
+ <way id="122549332" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:05:29Z">
+  <nd ref="1369126698"/>
+  <nd ref="1369129145"/>
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="1"/>
+  <tag k="wheelchair" v="yes"/>
+ </way>
+ <way id="147150862" user="Head" uid="25504" visible="true" version="1" changeset="10485066" timestamp="2012-01-24T14:33:47Z">
+  <nd ref="1603590195"/>
+  <nd ref="1603590197"/>
+  <nd ref="1603590193"/>
+  <nd ref="1603590190"/>
+  <nd ref="1603590195"/>
+  <tag k="building" v="yes"/>
+  <tag k="power" v="sub_station"/>
+  <tag k="source" v="position estimated"/>
+ </way>
+ <way id="180692579" user="radler99" uid="685157" visible="true" version="2" changeset="13577807" timestamp="2012-10-21T10:24:58Z">
+  <nd ref="1911427126"/>
+  <nd ref="1911427129"/>
+  <nd ref="1911427123"/>
+  <nd ref="1911427119"/>
+  <nd ref="1911427126"/>
+  <tag k="fixme" v="position"/>
+  <tag k="landuse" v="construction"/>
+  <tag k="name" v="Neubau Erweiterungsbau 3 RWTH-Informatik"/>
+ </way>
+ <way id="97812572" user="Head" uid="25504" visible="true" version="3" changeset="8169804" timestamp="2011-05-17T09:33:31Z">
+  <nd ref="1132229959"/>
+  <nd ref="826196499"/>
+  <nd ref="1272069065"/>
+  <nd ref="1288845786"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="8900853" user="Head" uid="25504" visible="true" version="5" changeset="7163325" timestamp="2011-02-02T10:43:59Z">
+  <nd ref="65134840"/>
+  <nd ref="1132229937"/>
+  <nd ref="838711870"/>
+  <nd ref="65134834"/>
+  <nd ref="1132229959"/>
+  <nd ref="65134849"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="8900851" user="Head" uid="25504" visible="true" version="3" changeset="7294261" timestamp="2011-02-15T12:03:35Z">
+  <nd ref="65134824"/>
+  <nd ref="1154344326"/>
+  <nd ref="65134827"/>
+  <nd ref="1154344345"/>
+  <nd ref="65134834"/>
+  <tag k="highway" v="footway"/>
+  <tag k="source" v="image"/>
+  <tag k="wheelchair" v="no"/>
+  <tag k="wheelchair:description" v="wegen Bordsteinkante nicht befahrbar"/>
+ </way>
+ <way id="147260607" user="Head" uid="25504" visible="true" version="1" changeset="10493643" timestamp="2012-01-25T13:33:58Z">
+  <nd ref="293160358"/>
+  <nd ref="1336814230"/>
+  <nd ref="1336814241"/>
+  <nd ref="1603590193"/>
+  <nd ref="1603590197"/>
+  <tag k="barrier" v="wall"/>
+ </way>
+ <way id="110656337" user="radler99" uid="685157" visible="true" version="2" changeset="13653198" timestamp="2012-10-27T19:06:20Z">
+  <nd ref="65134812"/>
+  <nd ref="44489171"/>
+  <nd ref="65134824"/>
+  <nd ref="44489155"/>
+  <nd ref="1132229929"/>
+  <nd ref="44489151"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="parking_aisle"/>
+ </way>
+ <way id="70241465" user="Head" uid="25504" visible="true" version="4" changeset="7294261" timestamp="2011-02-15T12:03:34Z">
+  <nd ref="838711856"/>
+  <nd ref="838711870"/>
+  <tag k="highway" v="steps"/>
+  <tag k="ramp" v="no"/>
+ </way>
+ <way id="97812568" user="Head" uid="25504" visible="true" version="1" changeset="7163325" timestamp="2011-02-02T10:43:56Z">
+  <nd ref="1132229937"/>
+  <nd ref="1132229929"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="122549167" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:05:04Z">
+  <nd ref="1369126358"/>
+  <nd ref="1369126519"/>
+  <nd ref="1369126536"/>
+  <nd ref="1369126551"/>
+  <nd ref="1369126564"/>
+  <nd ref="1369126585"/>
+  <nd ref="1369126598"/>
+  <nd ref="1369126622"/>
+  <nd ref="1369126637"/>
+  <nd ref="1369126655"/>
+  <nd ref="1369126674"/>
+  <nd ref="1369126692"/>
+  <nd ref="1369128973"/>
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="0"/>
+  <tag k="wheelchair" v="yes"/>
+ </way>
+ <way id="122549173" user="jabl" uid="87358" visible="true" version="1" changeset="8789466" timestamp="2011-07-21T15:05:05Z">
+  <nd ref="1369126365"/>
+  <nd ref="1369126481"/>
+  <nd ref="1369126517"/>
+  <nd ref="1369126541"/>
+  <nd ref="1369126556"/>
+  <nd ref="1369126569"/>
+  <nd ref="1369126588"/>
+  <nd ref="1369126600"/>
+  <nd ref="1369126624"/>
+  <nd ref="1369126639"/>
+  <nd ref="1369126663"/>
+  <nd ref="1369126680"/>
+  <nd ref="1369126694"/>
+  <nd ref="1369126714"/>
+  <nd ref="1369129313"/>
+  <tag k="indoor" v="yes"/>
+  <tag k="level" v="2"/>
+  <tag k="wheelchair" v="yes"/>
+ </way>
+ <relation id="30697" user="HolgerJeromin" uid="67862" visible="true" version="145" changeset="14184532" timestamp="2012-12-07T08:11:38Z">
+  <member type="node" ref="267551920" role=""/>
+  <member type="node" ref="267551921" role=""/>
+  <member type="node" ref="306684912" role=""/>
+  <member type="way" ref="5038803" role=""/>
+  <member type="way" ref="8903147" role=""/>
+  <member type="way" ref="136839990" role=""/>
+  <member type="way" ref="9733724" role=""/>
+  <member type="way" ref="10427676" role=""/>
+  <member type="way" ref="19617379" role=""/>
+  <member type="way" ref="22376346" role=""/>
+  <member type="way" ref="26740874" role=""/>
+  <member type="way" ref="26740885" role=""/>
+  <member type="way" ref="26740890" role=""/>
+  <member type="way" ref="129537991" role=""/>
+  <member type="way" ref="26740891" role=""/>
+  <member type="way" ref="84571679" role=""/>
+  <member type="way" ref="84571672" role=""/>
+  <member type="way" ref="84571678" role=""/>
+  <member type="way" ref="84571675" role=""/>
+  <member type="way" ref="84571680" role=""/>
+  <member type="way" ref="26786921" role=""/>
+  <member type="way" ref="26786923" role=""/>
+  <member type="way" ref="26786932" role=""/>
+  <member type="way" ref="123041263" role=""/>
+  <member type="way" ref="27081931" role=""/>
+  <member type="way" ref="143229257" role=""/>
+  <member type="way" ref="27081933" role=""/>
+  <member type="way" ref="143229258" role=""/>
+  <member type="way" ref="27329147" role=""/>
+  <member type="way" ref="27329220" role=""/>
+  <member type="way" ref="27397968" role=""/>
+  <member type="way" ref="27397969" role=""/>
+  <member type="way" ref="27397970" role=""/>
+  <member type="way" ref="27397971" role=""/>
+  <member type="way" ref="27397976" role=""/>
+  <member type="way" ref="84573353" role=""/>
+  <member type="way" ref="27397979" role=""/>
+  <member type="way" ref="84573635" role=""/>
+  <member type="way" ref="84573637" role=""/>
+  <member type="way" ref="27523970" role=""/>
+  <member type="way" ref="27523971" role=""/>
+  <member type="way" ref="27523974" role=""/>
+  <member type="way" ref="27523976" role=""/>
+  <member type="way" ref="27523977" role=""/>
+  <member type="way" ref="27523979" role=""/>
+  <member type="way" ref="44104575" role=""/>
+  <member type="way" ref="27523980" role=""/>
+  <member type="way" ref="27523982" role=""/>
+  <member type="way" ref="143227117" role=""/>
+  <member type="way" ref="27558361" role=""/>
+  <member type="way" ref="27578171" role=""/>
+  <member type="way" ref="27578172" role=""/>
+  <member type="way" ref="30440679" role=""/>
+  <member type="way" ref="30440680" role=""/>
+  <member type="way" ref="30440681" role=""/>
+  <member type="way" ref="30440683" role=""/>
+  <member type="way" ref="30440687" role=""/>
+  <member type="way" ref="30440688" role=""/>
+  <member type="way" ref="141106351" role=""/>
+  <member type="way" ref="30440690" role=""/>
+  <member type="way" ref="30440691" role=""/>
+  <member type="way" ref="115714810" role=""/>
+  <member type="way" ref="30440692" role=""/>
+  <member type="way" ref="30440693" role=""/>
+  <member type="way" ref="30440694" role=""/>
+  <member type="way" ref="30440695" role=""/>
+  <member type="way" ref="44521788" role=""/>
+  <member type="way" ref="44521787" role=""/>
+  <member type="way" ref="30440696" role=""/>
+  <member type="way" ref="31257261" role=""/>
+  <member type="way" ref="32322789" role=""/>
+  <member type="way" ref="32348178" role=""/>
+  <member type="way" ref="32845427" role=""/>
+  <member type="way" ref="118023267" role=""/>
+  <member type="way" ref="32845428" role=""/>
+  <member type="way" ref="33875519" role=""/>
+  <member type="way" ref="33875547" role=""/>
+  <member type="way" ref="37246664" role=""/>
+  <member type="way" ref="118023268" role=""/>
+  <member type="way" ref="48804936" role=""/>
+  <member type="way" ref="53269025" role=""/>
+  <member type="way" ref="34427403" role=""/>
+  <member type="way" ref="34427404" role=""/>
+  <member type="way" ref="34427405" role=""/>
+  <member type="way" ref="57717831" role=""/>
+  <member type="way" ref="59228642" role=""/>
+  <member type="way" ref="59861506" role=""/>
+  <member type="way" ref="64830071" role=""/>
+  <member type="way" ref="51008285" role=""/>
+  <member type="way" ref="64830069" role=""/>
+  <member type="way" ref="66090118" role=""/>
+  <member type="way" ref="66090121" role=""/>
+  <member type="node" ref="814677587" role=""/>
+  <member type="way" ref="77881087" role=""/>
+  <member type="node" ref="814677585" role=""/>
+  <member type="way" ref="53799567" role=""/>
+  <member type="way" ref="40629421" role=""/>
+  <member type="way" ref="33197067" role=""/>
+  <member type="way" ref="69027778" role=""/>
+  <member type="way" ref="69027780" role=""/>
+  <member type="way" ref="80540404" role=""/>
+  <member type="node" ref="829833009" role=""/>
+  <member type="node" ref="829835198" role=""/>
+  <member type="node" ref="829835199" role=""/>
+  <member type="node" ref="829835201" role=""/>
+  <member type="node" ref="829846449" role=""/>
+  <member type="node" ref="829857072" role=""/>
+  <member type="node" ref="829861686" role=""/>
+  <member type="node" ref="829868037" role=""/>
+  <member type="node" ref="829875354" role=""/>
+  <member type="node" ref="830105686" role=""/>
+  <member type="node" ref="830105689" role=""/>
+  <member type="node" ref="830109114" role=""/>
+  <member type="node" ref="830115877" role=""/>
+  <member type="way" ref="70242586" role=""/>
+  <member type="way" ref="32322791" role=""/>
+  <member type="way" ref="30440682" role=""/>
+  <member type="way" ref="82443186" role=""/>
+  <member type="way" ref="74385253" role=""/>
+  <member type="way" ref="74385252" role=""/>
+  <member type="way" ref="82944597" role=""/>
+  <member type="way" ref="67386490" role=""/>
+  <member type="way" ref="78265103" role=""/>
+  <member type="way" ref="67388394" role=""/>
+  <member type="way" ref="74746333" role=""/>
+  <member type="way" ref="83045667" role=""/>
+  <member type="way" ref="83045666" role=""/>
+  <member type="way" ref="83276933" role=""/>
+  <member type="way" ref="84586688" role=""/>
+  <member type="node" ref="994492841" role=""/>
+  <member type="way" ref="161152306" role=""/>
+  <member type="way" ref="77864560" role=""/>
+  <member type="way" ref="83233098" role=""/>
+  <member type="way" ref="83233102" role=""/>
+  <member type="way" ref="83233088" role=""/>
+  <member type="way" ref="84159406" role=""/>
+  <member type="way" ref="84159471" role=""/>
+  <member type="node" ref="1006920844" role=""/>
+  <member type="node" ref="967689708" role=""/>
+  <member type="node" ref="833722767" role=""/>
+  <member type="way" ref="87986406" role=""/>
+  <member type="way" ref="87986395" role=""/>
+  <member type="way" ref="87986407" role=""/>
+  <member type="way" ref="87986383" role=""/>
+  <member type="way" ref="87986385" role=""/>
+  <member type="way" ref="87986419" role=""/>
+  <member type="way" ref="87986411" role=""/>
+  <member type="way" ref="87986397" role=""/>
+  <member type="node" ref="1030601708" role=""/>
+  <member type="way" ref="89645628" role=""/>
+  <member type="node" ref="1040823041" role=""/>
+  <member type="node" ref="819290088" role=""/>
+  <member type="node" ref="819290098" role=""/>
+  <member type="node" ref="819290112" role=""/>
+  <member type="way" ref="92454049" role=""/>
+  <member type="way" ref="89082511" role=""/>
+  <member type="node" ref="1089022357" role=""/>
+  <member type="node" ref="1089022351" role=""/>
+  <member type="way" ref="89070779" role=""/>
+  <member type="way" ref="89866433" role=""/>
+  <member type="way" ref="89718178" role=""/>
+  <member type="way" ref="97065895" role=""/>
+  <member type="way" ref="115618652" role=""/>
+  <member type="way" ref="84152818" role=""/>
+  <member type="way" ref="86300563" role=""/>
+  <member type="way" ref="84152790" role=""/>
+  <member type="way" ref="84159407" role=""/>
+  <member type="way" ref="34427396" role=""/>
+  <member type="way" ref="34427394" role=""/>
+  <member type="way" ref="80540399" role=""/>
+  <member type="way" ref="34427395" role=""/>
+  <member type="way" ref="106245362" role=""/>
+  <member type="node" ref="1037324513" role=""/>
+  <member type="node" ref="1037324509" role=""/>
+  <member type="way" ref="74385241" role=""/>
+  <member type="way" ref="194894014" role=""/>
+  <member type="way" ref="159978585" role=""/>
+  <member type="way" ref="74385245" role=""/>
+  <member type="way" ref="74385248" role=""/>
+  <member type="node" ref="882062594" role=""/>
+  <member type="node" ref="803242360" role=""/>
+  <member type="node" ref="803242630" role=""/>
+  <member type="way" ref="78265150" role=""/>
+  <member type="way" ref="78265138" role=""/>
+  <member type="node" ref="1073343241" role=""/>
+  <member type="way" ref="87275917" role=""/>
+  <member type="way" ref="87275924" role=""/>
+  <member type="way" ref="87275927" role=""/>
+  <member type="way" ref="87986412" role=""/>
+  <member type="way" ref="77885449" role=""/>
+  <member type="way" ref="79514342" role=""/>
+  <member type="way" ref="84586690" role=""/>
+  <member type="way" ref="79689666" role=""/>
+  <member type="way" ref="118023269" role=""/>
+  <member type="way" ref="79689674" role=""/>
+  <member type="way" ref="77896090" role=""/>
+  <member type="way" ref="115601382" role=""/>
+  <member type="way" ref="77864565" role=""/>
+  <member type="way" ref="77881077" role=""/>
+  <member type="way" ref="74725272" role=""/>
+  <member type="way" ref="77881071" role=""/>
+  <member type="way" ref="84679637" role=""/>
+  <member type="way" ref="84679655" role=""/>
+  <member type="way" ref="84173525" role=""/>
+  <tag k="amenity" v="university"/>
+  <tag k="long_name" v="Rheinisch-Westfälische Technische Hochschule Aachen"/>
+  <tag k="name" v="RWTH Aachen"/>
+  <tag k="name:de" v="RWTH Aachen"/>
+  <tag k="name:en" v="RWTH Aachen University"/>
+  <tag k="phone" v="+49 241 80 0"/>
+  <tag k="type" v="site"/>
+  <tag k="wikipedia" v="de:RWTH Aachen"/>
+ </relation>
+ <relation id="1382731" user="jabl" uid="87358" visible="true" version="1" changeset="7022915" timestamp="2011-01-19T17:59:13Z">
+  <member type="way" ref="84573635" role="outer"/>
+  <member type="way" ref="95833677" role="inner"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+</osm>

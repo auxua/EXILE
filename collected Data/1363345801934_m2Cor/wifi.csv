@@ -1,0 +1,1070 @@
+Time passed (ms): 1363345802891
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5280
+2.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -88, frequency: 5280
+3.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -82, frequency: 2417
+4.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -83, frequency: 2417
+5.SSID: MINE, BSSID: 64:70:02:4f:9d:de, capabilities: [WPA2-PSK-CCMP][WPS][ESS], level: -82, frequency: 2462
+6.SSID: halifax_wlan, BSSID: 00:18:e7:d3:27:3b, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2412
+7.SSID: halifax_wlan, BSSID: 00:18:e7:da:a0:be, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 2412
+8.SSID: halifax_wlan, BSSID: 84:c9:b2:6e:c9:8e, capabilities: [WPA2-EAP-CCMP][ESS], level: -95, frequency: 2462
+9.SSID: mops, BSSID: 00:0f:a3:1a:11:ce, capabilities: [ESS], level: -82, frequency: 2417
+Time passed (ms): 1363345802943
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5280
+2.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -88, frequency: 5280
+3.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -82, frequency: 2417
+4.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -83, frequency: 2417
+5.SSID: MINE, BSSID: 64:70:02:4f:9d:de, capabilities: [WPA2-PSK-CCMP][WPS][ESS], level: -82, frequency: 2462
+6.SSID: halifax_wlan, BSSID: 00:18:e7:d3:27:3b, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2412
+7.SSID: halifax_wlan, BSSID: 00:18:e7:da:a0:be, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 2412
+8.SSID: halifax_wlan, BSSID: 84:c9:b2:6e:c9:8e, capabilities: [WPA2-EAP-CCMP][ESS], level: -95, frequency: 2462
+9.SSID: mops, BSSID: 00:0f:a3:1a:11:ce, capabilities: [ESS], level: -82, frequency: 2417
+Time passed (ms): 1363345806348
+1.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -91, frequency: 5280
+2.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -87, frequency: 2417
+3.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -87, frequency: 2417
+4.SSID: MINE, BSSID: 64:70:02:4f:9d:de, capabilities: [WPA2-PSK-CCMP][WPS][ESS], level: -90, frequency: 2462
+5.SSID: mops, BSSID: 00:0f:a3:1a:11:ce, capabilities: [ESS], level: -88, frequency: 2417
+Time passed (ms): 1363345806358
+1.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -91, frequency: 5280
+2.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -87, frequency: 2417
+3.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -87, frequency: 2417
+4.SSID: MINE, BSSID: 64:70:02:4f:9d:de, capabilities: [WPA2-PSK-CCMP][WPS][ESS], level: -90, frequency: 2462
+5.SSID: mops, BSSID: 00:0f:a3:1a:11:ce, capabilities: [ESS], level: -88, frequency: 2417
+Time passed (ms): 1363345809805
+1.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -91, frequency: 5280
+2.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -86, frequency: 2417
+3.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -84, frequency: 2417
+4.SSID: mops, BSSID: 00:0f:a3:1a:11:ce, capabilities: [ESS], level: -85, frequency: 2417
+5.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -85, frequency: 2432
+6.SSID: eduroam, BSSID: 00:17:df:a7:f5:b2, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 2462
+7.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -91, frequency: 2432
+8.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -93, frequency: 2432
+Time passed (ms): 1363345809811
+1.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -91, frequency: 5280
+2.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -86, frequency: 2417
+3.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -84, frequency: 2417
+4.SSID: mops, BSSID: 00:0f:a3:1a:11:ce, capabilities: [ESS], level: -85, frequency: 2417
+5.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -85, frequency: 2432
+6.SSID: eduroam, BSSID: 00:17:df:a7:f5:b2, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 2462
+7.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -91, frequency: 2432
+8.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -93, frequency: 2432
+Time passed (ms): 1363345813221
+1.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -83, frequency: 5280
+2.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -92, frequency: 2417
+3.SSID: mops, BSSID: 00:0f:a3:1a:11:ce, capabilities: [ESS], level: -93, frequency: 2417
+4.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -90, frequency: 2432
+5.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -88, frequency: 2432
+6.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 5280
+7.SSID: Sokrates-IQON, BSSID: 00:3a:9a:21:00:60, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS], level: -92, frequency: 2412
+Time passed (ms): 1363345813226
+1.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -83, frequency: 5280
+2.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -92, frequency: 2417
+3.SSID: mops, BSSID: 00:0f:a3:1a:11:ce, capabilities: [ESS], level: -93, frequency: 2417
+4.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -90, frequency: 2432
+5.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -88, frequency: 2432
+6.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 5280
+7.SSID: Sokrates-IQON, BSSID: 00:3a:9a:21:00:60, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS], level: -92, frequency: 2412
+Time passed (ms): 1363345816682
+1.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -91, frequency: 2417
+2.SSID: mops, BSSID: 00:0f:a3:1a:11:ce, capabilities: [ESS], level: -88, frequency: 2417
+3.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -93, frequency: 2432
+4.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -94, frequency: 2432
+5.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5280
+6.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -74, frequency: 5240
+7.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -91, frequency: 2417
+8.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -73, frequency: 5240
+9.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -87, frequency: 2437
+Time passed (ms): 1363345816756
+1.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -91, frequency: 2417
+2.SSID: mops, BSSID: 00:0f:a3:1a:11:ce, capabilities: [ESS], level: -88, frequency: 2417
+3.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -93, frequency: 2432
+4.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -94, frequency: 2432
+5.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5280
+6.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -74, frequency: 5240
+7.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -91, frequency: 2417
+8.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -73, frequency: 5240
+9.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -87, frequency: 2437
+Time passed (ms): 1363345820151
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -77, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -69, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -69, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -80, frequency: 2437
+5.SSID: eduroam, BSSID: 00:17:df:a7:e8:d2, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 2462
+6.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -79, frequency: 5280
+7.SSID: mops, BSSID: 00:17:df:a7:f5:b1, capabilities: [ESS], level: -75, frequency: 2462
+Time passed (ms): 1363345820158
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -77, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -69, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -69, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -80, frequency: 2437
+5.SSID: eduroam, BSSID: 00:17:df:a7:e8:d2, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 2462
+6.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -79, frequency: 5280
+7.SSID: mops, BSSID: 00:17:df:a7:f5:b1, capabilities: [ESS], level: -75, frequency: 2462
+Time passed (ms): 1363345823599
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -71, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -72, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -82, frequency: 5280
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -75, frequency: 2437
+6.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -93, frequency: 2432
+7.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -93, frequency: 2432
+8.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -94, frequency: 2432
+Time passed (ms): 1363345823619
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -71, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -72, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -82, frequency: 5280
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -75, frequency: 2437
+6.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -93, frequency: 2432
+7.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -93, frequency: 2432
+8.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -94, frequency: 2432
+Time passed (ms): 1363345827006
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -75, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -75, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -87, frequency: 5280
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -77, frequency: 2437
+6.SSID: eduroam, BSSID: 00:17:df:a7:e8:d2, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 2462
+7.SSID: mops, BSSID: 00:17:df:a7:e8:d1, capabilities: [ESS], level: -88, frequency: 2462
+Time passed (ms): 1363345827010
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -75, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -75, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -87, frequency: 5280
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -77, frequency: 2437
+6.SSID: eduroam, BSSID: 00:17:df:a7:e8:d2, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 2462
+7.SSID: mops, BSSID: 00:17:df:a7:e8:d1, capabilities: [ESS], level: -88, frequency: 2462
+Time passed (ms): 1363345830437
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -75, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -78, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -75, frequency: 5280
+5.SSID: eduroam, BSSID: 00:17:df:a7:f5:b2, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2462
+6.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -76, frequency: 2437
+7.SSID: mops, BSSID: 00:17:df:a7:f5:b1, capabilities: [ESS], level: -88, frequency: 2462
+Time passed (ms): 1363345830452
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -75, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -78, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -75, frequency: 5280
+5.SSID: eduroam, BSSID: 00:17:df:a7:f5:b2, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2462
+6.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -76, frequency: 2437
+7.SSID: mops, BSSID: 00:17:df:a7:f5:b1, capabilities: [ESS], level: -88, frequency: 2462
+Time passed (ms): 1363345833921
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -81, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -72, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -73, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -81, frequency: 5280
+5.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -73, frequency: 2437
+6.SSID: mops, BSSID: 00:17:df:a7:f5:b1, capabilities: [ESS], level: -84, frequency: 2462
+7.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -73, frequency: 2437
+8.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -91, frequency: 2437
+9.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -93, frequency: 2417
+10.SSID: mops, BSSID: 00:0f:a3:1a:11:ce, capabilities: [ESS], level: -93, frequency: 2417
+Time passed (ms): 1363345833942
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -81, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -72, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -73, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -81, frequency: 5280
+5.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -73, frequency: 2437
+6.SSID: mops, BSSID: 00:17:df:a7:f5:b1, capabilities: [ESS], level: -84, frequency: 2462
+7.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -73, frequency: 2437
+8.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -91, frequency: 2437
+9.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ce, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -93, frequency: 2417
+10.SSID: mops, BSSID: 00:0f:a3:1a:11:ce, capabilities: [ESS], level: -93, frequency: 2417
+Time passed (ms): 1363345837328
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -80, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -69, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -69, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -82, frequency: 5280
+5.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -76, frequency: 2437
+6.SSID: mops, BSSID: 00:17:df:a7:f5:b1, capabilities: [ESS], level: -81, frequency: 2462
+7.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -76, frequency: 2437
+8.SSID: mops, BSSID: 00:17:df:a7:e5:8e, capabilities: [ESS], level: -89, frequency: 5560
+Time passed (ms): 1363345837336
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -80, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -69, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -69, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -82, frequency: 5280
+5.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -76, frequency: 2437
+6.SSID: mops, BSSID: 00:17:df:a7:f5:b1, capabilities: [ESS], level: -81, frequency: 2462
+7.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -76, frequency: 2437
+8.SSID: mops, BSSID: 00:17:df:a7:e5:8e, capabilities: [ESS], level: -89, frequency: 5560
+Time passed (ms): 1363345840791
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -69, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -70, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -83, frequency: 5280
+5.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -79, frequency: 2437
+6.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -81, frequency: 2437
+7.SSID: mops, BSSID: 00:17:df:a7:e5:8e, capabilities: [ESS], level: -91, frequency: 5560
+8.SSID: eduroam, BSSID: 00:17:df:a7:f5:b2, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 2462
+9.SSID: eduroam, BSSID: 00:17:df:a7:e5:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 5560
+10.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -94, frequency: 2437
+11.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -95, frequency: 2437
+12.SSID: mops, BSSID: 00:17:df:a7:e5:81, capabilities: [ESS], level: -88, frequency: 2412
+Time passed (ms): 1363345840813
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -69, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -70, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -83, frequency: 5280
+5.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -79, frequency: 2437
+6.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -81, frequency: 2437
+7.SSID: mops, BSSID: 00:17:df:a7:e5:8e, capabilities: [ESS], level: -91, frequency: 5560
+8.SSID: eduroam, BSSID: 00:17:df:a7:f5:b2, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 2462
+9.SSID: eduroam, BSSID: 00:17:df:a7:e5:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 5560
+10.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -94, frequency: 2437
+11.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -95, frequency: 2437
+12.SSID: mops, BSSID: 00:17:df:a7:e5:81, capabilities: [ESS], level: -88, frequency: 2412
+Time passed (ms): 1363345844250
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -67, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -69, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -83, frequency: 5280
+5.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -78, frequency: 2437
+6.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -77, frequency: 2437
+Time passed (ms): 1363345844267
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -67, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -69, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -83, frequency: 5280
+5.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -78, frequency: 2437
+6.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -77, frequency: 2437
+Time passed (ms): 1363345847668
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -66, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -66, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -91, frequency: 5280
+5.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -72, frequency: 2437
+6.SSID: eduroam, BSSID: 00:17:df:a7:e5:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5560
+7.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 2437
+Time passed (ms): 1363345847680
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -66, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -66, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -91, frequency: 5280
+5.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -72, frequency: 2437
+6.SSID: eduroam, BSSID: 00:17:df:a7:e5:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5560
+7.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 2437
+Time passed (ms): 1363345851269
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -68, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -69, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -87, frequency: 5280
+5.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -71, frequency: 2437
+6.SSID: eduroam, BSSID: 00:17:df:a7:e5:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 5560
+7.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -71, frequency: 2437
+8.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -85, frequency: 2437
+9.SSID: mops, BSSID: 00:17:df:a7:e5:8e, capabilities: [ESS], level: -89, frequency: 5560
+Time passed (ms): 1363345851274
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -68, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -69, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -87, frequency: 5280
+5.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -71, frequency: 2437
+6.SSID: eduroam, BSSID: 00:17:df:a7:e5:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 5560
+7.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -71, frequency: 2437
+8.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -85, frequency: 2437
+9.SSID: mops, BSSID: 00:17:df:a7:e5:8e, capabilities: [ESS], level: -89, frequency: 5560
+Time passed (ms): 1363345854772
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -63, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -63, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -87, frequency: 5280
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -66, frequency: 2437
+6.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -92, frequency: 2437
+7.SSID: mops, BSSID: 00:17:df:a7:e5:8e, capabilities: [ESS], level: -90, frequency: 5560
+8.SSID: eduroam, BSSID: 00:17:df:a7:e5:82, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2412
+9.SSID: mops, BSSID: 00:17:df:a7:e5:81, capabilities: [ESS], level: -86, frequency: 2412
+Time passed (ms): 1363345854775
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -63, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -63, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -87, frequency: 5280
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -66, frequency: 2437
+6.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -92, frequency: 2437
+7.SSID: mops, BSSID: 00:17:df:a7:e5:8e, capabilities: [ESS], level: -90, frequency: 5560
+8.SSID: eduroam, BSSID: 00:17:df:a7:e5:82, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2412
+9.SSID: mops, BSSID: 00:17:df:a7:e5:81, capabilities: [ESS], level: -86, frequency: 2412
+Time passed (ms): 1363345858213
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -66, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -64, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -92, frequency: 5280
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -73, frequency: 2437
+6.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -90, frequency: 2437
+7.SSID: eduroam, BSSID: 00:17:df:a7:e5:82, capabilities: [WPA2-EAP-CCMP][ESS], level: -82, frequency: 2412
+8.SSID: eduroam, BSSID: 00:17:df:a7:e5:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5560
+9.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -70, frequency: 2437
+Time passed (ms): 1363345858216
+1.SSID: eduroam, BSSID: 00:17:df:a7:f5:bd, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5280
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -66, frequency: 5240
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -64, frequency: 5240
+4.SSID: mops, BSSID: 00:17:df:a7:f5:be, capabilities: [ESS], level: -92, frequency: 5280
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -73, frequency: 2437
+6.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -90, frequency: 2437
+7.SSID: eduroam, BSSID: 00:17:df:a7:e5:82, capabilities: [WPA2-EAP-CCMP][ESS], level: -82, frequency: 2412
+8.SSID: eduroam, BSSID: 00:17:df:a7:e5:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5560
+9.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -70, frequency: 2437
+Time passed (ms): 1363345861674
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -74, frequency: 2437
+2.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -91, frequency: 2437
+3.SSID: eduroam, BSSID: 00:17:df:a7:e5:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -79, frequency: 5560
+4.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -74, frequency: 2437
+5.SSID: mops, BSSID: 00:17:df:a7:e5:8e, capabilities: [ESS], level: -78, frequency: 5560
+6.SSID: mops, BSSID: 00:17:df:a7:e5:81, capabilities: [ESS], level: -82, frequency: 2412
+Time passed (ms): 1363345861689
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -74, frequency: 2437
+2.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -91, frequency: 2437
+3.SSID: eduroam, BSSID: 00:17:df:a7:e5:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -79, frequency: 5560
+4.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -74, frequency: 2437
+5.SSID: mops, BSSID: 00:17:df:a7:e5:8e, capabilities: [ESS], level: -78, frequency: 5560
+6.SSID: mops, BSSID: 00:17:df:a7:e5:81, capabilities: [ESS], level: -82, frequency: 2412
+Time passed (ms): 1363345865100
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -63, frequency: 2437
+2.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -86, frequency: 2437
+3.SSID: eduroam, BSSID: 00:17:df:a7:e5:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5560
+4.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -63, frequency: 2437
+5.SSID: mops, BSSID: 00:17:df:a7:e5:8e, capabilities: [ESS], level: -89, frequency: 5560
+6.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -42, frequency: 5240
+7.SSID: eduroam, BSSID: 00:17:df:a7:e5:82, capabilities: [WPA2-EAP-CCMP][ESS], level: -80, frequency: 2412
+8.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5320
+9.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -43, frequency: 5240
+10.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -90, frequency: 5320
+Time passed (ms): 1363345865128
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -63, frequency: 2437
+2.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -86, frequency: 2437
+3.SSID: eduroam, BSSID: 00:17:df:a7:e5:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5560
+4.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -63, frequency: 2437
+5.SSID: mops, BSSID: 00:17:df:a7:e5:8e, capabilities: [ESS], level: -89, frequency: 5560
+6.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -42, frequency: 5240
+7.SSID: eduroam, BSSID: 00:17:df:a7:e5:82, capabilities: [WPA2-EAP-CCMP][ESS], level: -80, frequency: 2412
+8.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5320
+9.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -43, frequency: 5240
+10.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -90, frequency: 5320
+Time passed (ms): 1363345868551
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -69, frequency: 2437
+2.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -81, frequency: 2437
+3.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -67, frequency: 2437
+4.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -58, frequency: 5240
+5.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 5320
+6.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -58, frequency: 5240
+7.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -90, frequency: 5320
+8.SSID: mops, BSSID: 00:17:df:a7:e5:81, capabilities: [ESS], level: -85, frequency: 2412
+9.SSID: bergundtal, BSSID: 00:0d:28:b7:49:c0, capabilities: [ESS], level: -90, frequency: 2412
+Time passed (ms): 1363345868568
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -69, frequency: 2437
+2.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -81, frequency: 2437
+3.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -67, frequency: 2437
+4.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -58, frequency: 5240
+5.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 5320
+6.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -58, frequency: 5240
+7.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -90, frequency: 5320
+8.SSID: mops, BSSID: 00:17:df:a7:e5:81, capabilities: [ESS], level: -85, frequency: 2412
+9.SSID: bergundtal, BSSID: 00:0d:28:b7:49:c0, capabilities: [ESS], level: -90, frequency: 2412
+Time passed (ms): 1363345872109
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -70, frequency: 2437
+2.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -73, frequency: 2437
+3.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -82, frequency: 2437
+4.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -74, frequency: 5240
+5.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5320
+6.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -73, frequency: 5240
+7.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -90, frequency: 5320
+8.SSID: bergundtal, BSSID: 00:0d:28:b7:49:c0, capabilities: [ESS], level: -88, frequency: 2412
+Time passed (ms): 1363345872114
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -70, frequency: 2437
+2.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -73, frequency: 2437
+3.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -82, frequency: 2437
+4.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -74, frequency: 5240
+5.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5320
+6.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -73, frequency: 5240
+7.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -90, frequency: 5320
+8.SSID: bergundtal, BSSID: 00:0d:28:b7:49:c0, capabilities: [ESS], level: -88, frequency: 2412
+Time passed (ms): 1363345875544
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 2437
+2.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -84, frequency: 2437
+3.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -83, frequency: 2437
+4.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -67, frequency: 5240
+5.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -79, frequency: 5320
+6.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -67, frequency: 5240
+7.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -78, frequency: 5320
+8.SSID: bergundtal, BSSID: 00:0d:28:b7:49:c0, capabilities: [ESS], level: -87, frequency: 2412
+9.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -88, frequency: 2462
+10.SSID: mops, BSSID: 00:21:a0:10:22:d1, capabilities: [ESS], level: -76, frequency: 2412
+Time passed (ms): 1363345875565
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:92, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 2437
+2.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -84, frequency: 2437
+3.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -83, frequency: 2437
+4.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -67, frequency: 5240
+5.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -79, frequency: 5320
+6.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -67, frequency: 5240
+7.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -78, frequency: 5320
+8.SSID: bergundtal, BSSID: 00:0d:28:b7:49:c0, capabilities: [ESS], level: -87, frequency: 2412
+9.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -88, frequency: 2462
+10.SSID: mops, BSSID: 00:21:a0:10:22:d1, capabilities: [ESS], level: -76, frequency: 2412
+Time passed (ms): 1363345879050
+1.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -71, frequency: 2437
+2.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -87, frequency: 2437
+3.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 5240
+4.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -72, frequency: 5320
+5.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -86, frequency: 5240
+6.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -71, frequency: 5320
+7.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -88, frequency: 2462
+8.SSID: mops, BSSID: 00:21:a0:10:22:d1, capabilities: [ESS], level: -73, frequency: 2412
+9.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5660
+10.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -89, frequency: 5660
+Time passed (ms): 1363345879087
+1.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -71, frequency: 2437
+2.SSID: mops, BSSID: 00:17:df:a7:f4:91, capabilities: [ESS], level: -87, frequency: 2437
+3.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 5240
+4.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -72, frequency: 5320
+5.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -86, frequency: 5240
+6.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -71, frequency: 5320
+7.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -88, frequency: 2462
+8.SSID: mops, BSSID: 00:21:a0:10:22:d1, capabilities: [ESS], level: -73, frequency: 2412
+9.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5660
+10.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -89, frequency: 5660
+Time passed (ms): 1363345882577
+1.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -70, frequency: 2437
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 5240
+3.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -69, frequency: 5320
+4.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -88, frequency: 5240
+5.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -69, frequency: 5320
+6.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -76, frequency: 2462
+7.SSID: mops, BSSID: 00:21:a0:10:22:d1, capabilities: [ESS], level: -76, frequency: 2412
+8.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5660
+9.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -90, frequency: 5660
+10.SSID: eduroam, BSSID: 00:21:a0:10:22:d2, capabilities: [WPA2-EAP-CCMP][ESS], level: -75, frequency: 2412
+11.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:be:fc, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -87, frequency: 5180
+Time passed (ms): 1363345882584
+1.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -70, frequency: 2437
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 5240
+3.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -69, frequency: 5320
+4.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -88, frequency: 5240
+5.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -69, frequency: 5320
+6.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -76, frequency: 2462
+7.SSID: mops, BSSID: 00:21:a0:10:22:d1, capabilities: [ESS], level: -76, frequency: 2412
+8.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5660
+9.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -90, frequency: 5660
+10.SSID: eduroam, BSSID: 00:21:a0:10:22:d2, capabilities: [WPA2-EAP-CCMP][ESS], level: -75, frequency: 2412
+11.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:be:fc, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -87, frequency: 5180
+Time passed (ms): 1363345886042
+1.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -86, frequency: 2437
+2.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -72, frequency: 5320
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -89, frequency: 5240
+4.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -73, frequency: 5320
+5.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -81, frequency: 2462
+6.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 5660
+7.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -89, frequency: 5660
+8.SSID: eduroam, BSSID: 00:21:a0:10:22:d2, capabilities: [WPA2-EAP-CCMP][ESS], level: -68, frequency: 2412
+9.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:be:fc, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -85, frequency: 5180
+10.SSID: eduroam, BSSID: d0:c2:82:b6:84:02, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 2412
+11.SSID: eduroam, BSSID: 00:17:df:a7:f2:1d, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 5180
+12.SSID: i10, BSSID: 00:1c:b3:ad:c8:1e, capabilities: [WPA2-PSK-CCMP][ESS], level: -93, frequency: 2462
+13.SSID: mops, BSSID: d0:c2:82:b6:84:01, capabilities: [ESS], level: -85, frequency: 2412
+14.SSID: mops, BSSID: 00:17:df:a7:f2:1e, capabilities: [ESS], level: -93, frequency: 5180
+Time passed (ms): 1363345886051
+1.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -86, frequency: 2437
+2.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -72, frequency: 5320
+3.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -89, frequency: 5240
+4.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -73, frequency: 5320
+5.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -81, frequency: 2462
+6.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 5660
+7.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -89, frequency: 5660
+8.SSID: eduroam, BSSID: 00:21:a0:10:22:d2, capabilities: [WPA2-EAP-CCMP][ESS], level: -68, frequency: 2412
+9.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:be:fc, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -85, frequency: 5180
+10.SSID: eduroam, BSSID: d0:c2:82:b6:84:02, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 2412
+11.SSID: eduroam, BSSID: 00:17:df:a7:f2:1d, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 5180
+12.SSID: i10, BSSID: 00:1c:b3:ad:c8:1e, capabilities: [WPA2-PSK-CCMP][ESS], level: -93, frequency: 2462
+13.SSID: mops, BSSID: d0:c2:82:b6:84:01, capabilities: [ESS], level: -85, frequency: 2412
+14.SSID: mops, BSSID: 00:17:df:a7:f2:1e, capabilities: [ESS], level: -93, frequency: 5180
+Time passed (ms): 1363345889538
+1.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -76, frequency: 2437
+2.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -70, frequency: 5320
+3.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -69, frequency: 5320
+4.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -75, frequency: 2462
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 5660
+6.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -85, frequency: 5660
+7.SSID: eduroam, BSSID: 00:21:a0:10:22:d2, capabilities: [WPA2-EAP-CCMP][ESS], level: -71, frequency: 2412
+8.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:be:fc, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -91, frequency: 5180
+9.SSID: eduroam, BSSID: 00:17:df:a7:f2:1d, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 5180
+10.SSID: mops, BSSID: d0:c2:82:b6:84:01, capabilities: [ESS], level: -88, frequency: 2412
+11.SSID: mops, BSSID: 00:17:df:a7:f2:1e, capabilities: [ESS], level: -88, frequency: 5180
+12.SSID: mops, BSSID: 00:21:a0:10:22:d1, capabilities: [ESS], level: -71, frequency: 2412
+Time passed (ms): 1363345889550
+1.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -76, frequency: 2437
+2.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -70, frequency: 5320
+3.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -69, frequency: 5320
+4.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -75, frequency: 2462
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 5660
+6.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -85, frequency: 5660
+7.SSID: eduroam, BSSID: 00:21:a0:10:22:d2, capabilities: [WPA2-EAP-CCMP][ESS], level: -71, frequency: 2412
+8.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:be:fc, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -91, frequency: 5180
+9.SSID: eduroam, BSSID: 00:17:df:a7:f2:1d, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 5180
+10.SSID: mops, BSSID: d0:c2:82:b6:84:01, capabilities: [ESS], level: -88, frequency: 2412
+11.SSID: mops, BSSID: 00:17:df:a7:f2:1e, capabilities: [ESS], level: -88, frequency: 5180
+12.SSID: mops, BSSID: 00:21:a0:10:22:d1, capabilities: [ESS], level: -71, frequency: 2412
+Time passed (ms): 1363345892970
+1.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -82, frequency: 2437
+2.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -75, frequency: 5320
+3.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -75, frequency: 5320
+4.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -76, frequency: 2462
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 5660
+6.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -85, frequency: 5660
+7.SSID: eduroam, BSSID: 00:21:a0:10:22:d2, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 2412
+8.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:be:fc, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -83, frequency: 5180
+9.SSID: eduroam, BSSID: 00:17:df:a7:f2:1d, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 5180
+10.SSID: mops, BSSID: 00:17:df:a7:f2:1e, capabilities: [ESS], level: -85, frequency: 5180
+11.SSID: mops, BSSID: 00:21:a0:10:22:d1, capabilities: [ESS], level: -75, frequency: 2412
+12.SSID: eduroam, BSSID: 00:17:df:a7:f2:12, capabilities: [WPA2-EAP-CCMP][ESS], level: -82, frequency: 2462
+13.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5240
+14.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -90, frequency: 2437
+15.SSID: mops, BSSID: 00:17:df:a7:f2:11, capabilities: [ESS], level: -82, frequency: 2462
+Time passed (ms): 1363345892978
+1.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -82, frequency: 2437
+2.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -75, frequency: 5320
+3.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -75, frequency: 5320
+4.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -76, frequency: 2462
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 5660
+6.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -85, frequency: 5660
+7.SSID: eduroam, BSSID: 00:21:a0:10:22:d2, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 2412
+8.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:be:fc, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -83, frequency: 5180
+9.SSID: eduroam, BSSID: 00:17:df:a7:f2:1d, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 5180
+10.SSID: mops, BSSID: 00:17:df:a7:f2:1e, capabilities: [ESS], level: -85, frequency: 5180
+11.SSID: mops, BSSID: 00:21:a0:10:22:d1, capabilities: [ESS], level: -75, frequency: 2412
+12.SSID: eduroam, BSSID: 00:17:df:a7:f2:12, capabilities: [WPA2-EAP-CCMP][ESS], level: -82, frequency: 2462
+13.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5240
+14.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -90, frequency: 2437
+15.SSID: mops, BSSID: 00:17:df:a7:f2:11, capabilities: [ESS], level: -82, frequency: 2462
+Time passed (ms): 1363345896448
+1.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 5320
+2.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -83, frequency: 5320
+3.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -84, frequency: 2462
+4.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -76, frequency: 5660
+5.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -75, frequency: 5660
+6.SSID: eduroam, BSSID: 00:21:a0:10:22:d2, capabilities: [WPA2-EAP-CCMP][ESS], level: -81, frequency: 2412
+7.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:be:fc, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -90, frequency: 5180
+8.SSID: eduroam, BSSID: 00:17:df:a7:f2:1d, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 5180
+9.SSID: mops, BSSID: 00:17:df:a7:f2:1e, capabilities: [ESS], level: -83, frequency: 5180
+10.SSID: mops, BSSID: 00:21:a0:10:22:d1, capabilities: [ESS], level: -82, frequency: 2412
+11.SSID: eduroam, BSSID: 00:17:df:a7:f2:12, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 2462
+12.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -85, frequency: 2437
+13.SSID: mops, BSSID: 00:17:df:a7:f2:11, capabilities: [ESS], level: -78, frequency: 2462
+14.SSID: I2Net 5 GHz, BSSID: 7c:d1:c3:c9:95:cb, capabilities: [WPA2-PSK-CCMP][ESS], level: -92, frequency: 5500
+15.SSID: i10, BSSID: 00:1b:63:2d:83:8f, capabilities: [WPA-PSK-TKIP][WPA2-PSK-TKIP+CCMP][ESS], level: -88, frequency: 2462
+Time passed (ms): 1363345896466
+1.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 5320
+2.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -83, frequency: 5320
+3.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -84, frequency: 2462
+4.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -76, frequency: 5660
+5.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -75, frequency: 5660
+6.SSID: eduroam, BSSID: 00:21:a0:10:22:d2, capabilities: [WPA2-EAP-CCMP][ESS], level: -81, frequency: 2412
+7.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:be:fc, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -90, frequency: 5180
+8.SSID: eduroam, BSSID: 00:17:df:a7:f2:1d, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 5180
+9.SSID: mops, BSSID: 00:17:df:a7:f2:1e, capabilities: [ESS], level: -83, frequency: 5180
+10.SSID: mops, BSSID: 00:21:a0:10:22:d1, capabilities: [ESS], level: -82, frequency: 2412
+11.SSID: eduroam, BSSID: 00:17:df:a7:f2:12, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 2462
+12.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -85, frequency: 2437
+13.SSID: mops, BSSID: 00:17:df:a7:f2:11, capabilities: [ESS], level: -78, frequency: 2462
+14.SSID: I2Net 5 GHz, BSSID: 7c:d1:c3:c9:95:cb, capabilities: [WPA2-PSK-CCMP][ESS], level: -92, frequency: 5500
+15.SSID: i10, BSSID: 00:1b:63:2d:83:8f, capabilities: [WPA-PSK-TKIP][WPA2-PSK-TKIP+CCMP][ESS], level: -88, frequency: 2462
+Time passed (ms): 1363345899872
+1.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 5320
+2.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -89, frequency: 5320
+3.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -87, frequency: 2462
+4.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -75, frequency: 5660
+5.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -77, frequency: 5660
+6.SSID: mops, BSSID: 00:17:df:a7:f2:1e, capabilities: [ESS], level: -91, frequency: 5180
+7.SSID: mops, BSSID: 00:21:a0:10:22:d1, capabilities: [ESS], level: -82, frequency: 2412
+8.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -84, frequency: 2437
+9.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -80, frequency: 2437
+10.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -91, frequency: 2437
+11.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -89, frequency: 5240
+Time passed (ms): 1363345899898
+1.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 5320
+2.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -89, frequency: 5320
+3.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -87, frequency: 2462
+4.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -75, frequency: 5660
+5.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -77, frequency: 5660
+6.SSID: mops, BSSID: 00:17:df:a7:f2:1e, capabilities: [ESS], level: -91, frequency: 5180
+7.SSID: mops, BSSID: 00:21:a0:10:22:d1, capabilities: [ESS], level: -82, frequency: 2412
+8.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -84, frequency: 2437
+9.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -80, frequency: 2437
+10.SSID: mmi_wlan, BSSID: 00:1c:10:f5:47:fd, capabilities: [WPA2-PSK-CCMP][ESS], level: -91, frequency: 2437
+11.SSID: mops, BSSID: 00:17:df:a7:f4:9e, capabilities: [ESS], level: -89, frequency: 5240
+Time passed (ms): 1363345903228
+1.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -91, frequency: 5320
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -69, frequency: 5660
+3.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -68, frequency: 5660
+4.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -81, frequency: 2437
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -76, frequency: 2437
+6.SSID: i10, BSSID: 00:1b:63:2d:83:8f, capabilities: [WPA-PSK-TKIP][WPA2-PSK-TKIP+CCMP][ESS], level: -86, frequency: 2462
+7.SSID: I2Net 5 GHz, BSSID: 7c:d1:c3:c9:95:cb, capabilities: [WPA2-PSK-CCMP][ESS], level: -92, frequency: 5500
+8.SSID: mops, BSSID: d0:c2:82:b6:86:6e, capabilities: [ESS], level: -92, frequency: 5540
+Time passed (ms): 1363345903284
+1.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -91, frequency: 5320
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -69, frequency: 5660
+3.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -68, frequency: 5660
+4.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -81, frequency: 2437
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -76, frequency: 2437
+6.SSID: i10, BSSID: 00:1b:63:2d:83:8f, capabilities: [WPA-PSK-TKIP][WPA2-PSK-TKIP+CCMP][ESS], level: -86, frequency: 2462
+7.SSID: I2Net 5 GHz, BSSID: 7c:d1:c3:c9:95:cb, capabilities: [WPA2-PSK-CCMP][ESS], level: -92, frequency: 5500
+8.SSID: mops, BSSID: d0:c2:82:b6:86:6e, capabilities: [ESS], level: -92, frequency: 5540
+Time passed (ms): 1363345906678
+1.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -89, frequency: 5320
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -67, frequency: 5660
+3.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -67, frequency: 5660
+4.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -74, frequency: 2437
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -71, frequency: 2437
+6.SSID: I2Net 5 GHz, BSSID: 7c:d1:c3:c9:95:cb, capabilities: [WPA2-PSK-CCMP][ESS], level: -88, frequency: 5500
+7.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5320
+8.SSID: mops, BSSID: 00:17:df:a7:f4:71, capabilities: [ESS], level: -72, frequency: 2437
+Time passed (ms): 1363345906695
+1.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -89, frequency: 5320
+2.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -67, frequency: 5660
+3.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -67, frequency: 5660
+4.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -74, frequency: 2437
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -71, frequency: 2437
+6.SSID: I2Net 5 GHz, BSSID: 7c:d1:c3:c9:95:cb, capabilities: [WPA2-PSK-CCMP][ESS], level: -88, frequency: 5500
+7.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5320
+8.SSID: mops, BSSID: 00:17:df:a7:f4:71, capabilities: [ESS], level: -72, frequency: 2437
+Time passed (ms): 1363345910163
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -69, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -68, frequency: 5660
+3.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -74, frequency: 2437
+4.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 2437
+5.SSID: I2Net 5 GHz, BSSID: 7c:d1:c3:c9:95:cb, capabilities: [WPA2-PSK-CCMP][ESS], level: -81, frequency: 5500
+6.SSID: mops, BSSID: 00:17:df:a7:f4:71, capabilities: [ESS], level: -77, frequency: 2437
+7.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5240
+8.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -91, frequency: 2462
+9.SSID: mops, BSSID: 00:17:df:a7:f2:11, capabilities: [ESS], level: -89, frequency: 2462
+Time passed (ms): 1363345910166
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -69, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -68, frequency: 5660
+3.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -74, frequency: 2437
+4.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 2437
+5.SSID: I2Net 5 GHz, BSSID: 7c:d1:c3:c9:95:cb, capabilities: [WPA2-PSK-CCMP][ESS], level: -81, frequency: 5500
+6.SSID: mops, BSSID: 00:17:df:a7:f4:71, capabilities: [ESS], level: -77, frequency: 2437
+7.SSID: eduroam, BSSID: 00:17:df:a7:f4:9d, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5240
+8.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -91, frequency: 2462
+9.SSID: mops, BSSID: 00:17:df:a7:f2:11, capabilities: [ESS], level: -89, frequency: 2462
+Time passed (ms): 1363345913661
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -85, frequency: 5660
+3.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -78, frequency: 2437
+4.SSID: I2Net 5 GHz, BSSID: 7c:d1:c3:c9:95:cb, capabilities: [WPA2-PSK-CCMP][ESS], level: -85, frequency: 5500
+5.SSID: mops, BSSID: 00:17:df:a7:f4:71, capabilities: [ESS], level: -78, frequency: 2437
+6.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -82, frequency: 5320
+7.SSID: i10, BSSID: 00:1b:63:2d:83:8f, capabilities: [WPA-PSK-TKIP][WPA2-PSK-TKIP+CCMP][ESS], level: -86, frequency: 2462
+8.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -81, frequency: 5320
+Time passed (ms): 1363345913664
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -85, frequency: 5660
+3.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -78, frequency: 2437
+4.SSID: I2Net 5 GHz, BSSID: 7c:d1:c3:c9:95:cb, capabilities: [WPA2-PSK-CCMP][ESS], level: -85, frequency: 5500
+5.SSID: mops, BSSID: 00:17:df:a7:f4:71, capabilities: [ESS], level: -78, frequency: 2437
+6.SSID: eduroam, BSSID: 00:21:a0:10:22:dd, capabilities: [WPA2-EAP-CCMP][ESS], level: -82, frequency: 5320
+7.SSID: i10, BSSID: 00:1b:63:2d:83:8f, capabilities: [WPA-PSK-TKIP][WPA2-PSK-TKIP+CCMP][ESS], level: -86, frequency: 2462
+8.SSID: mops, BSSID: 00:21:a0:10:22:de, capabilities: [ESS], level: -81, frequency: 5320
+Time passed (ms): 1363345917157
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -87, frequency: 5660
+3.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -84, frequency: 2437
+4.SSID: i10, BSSID: 00:1b:63:2d:83:8f, capabilities: [WPA-PSK-TKIP][WPA2-PSK-TKIP+CCMP][ESS], level: -98, frequency: 2462
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 2437
+Time passed (ms): 1363345917165
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -87, frequency: 5660
+3.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -84, frequency: 2437
+4.SSID: i10, BSSID: 00:1b:63:2d:83:8f, capabilities: [WPA-PSK-TKIP][WPA2-PSK-TKIP+CCMP][ESS], level: -98, frequency: 2462
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 2437
+Time passed (ms): 1363345920553
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -65, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -65, frequency: 5660
+3.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -79, frequency: 2437
+4.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 2437
+5.SSID: I2Net 5 GHz, BSSID: 7c:d1:c3:c9:95:cb, capabilities: [WPA2-PSK-CCMP][ESS], level: -79, frequency: 5500
+6.SSID: eduroam, BSSID: d0:c2:82:b6:86:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 5540
+7.SSID: eduroam, BSSID: d0:c2:82:b6:86:62, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2462
+8.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -92, frequency: 2462
+9.SSID: mops, BSSID: 00:17:df:a7:f4:71, capabilities: [ESS], level: -82, frequency: 2437
+10.SSID: mops, BSSID: d0:c2:82:b6:86:6e, capabilities: [ESS], level: -91, frequency: 5540
+Time passed (ms): 1363345920567
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -65, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -65, frequency: 5660
+3.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -79, frequency: 2437
+4.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 2437
+5.SSID: I2Net 5 GHz, BSSID: 7c:d1:c3:c9:95:cb, capabilities: [WPA2-PSK-CCMP][ESS], level: -79, frequency: 5500
+6.SSID: eduroam, BSSID: d0:c2:82:b6:86:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 5540
+7.SSID: eduroam, BSSID: d0:c2:82:b6:86:62, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2462
+8.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -92, frequency: 2462
+9.SSID: mops, BSSID: 00:17:df:a7:f4:71, capabilities: [ESS], level: -82, frequency: 2437
+10.SSID: mops, BSSID: d0:c2:82:b6:86:6e, capabilities: [ESS], level: -91, frequency: 5540
+Time passed (ms): 1363345923958
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -67, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -66, frequency: 5660
+3.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -74, frequency: 2437
+4.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -67, frequency: 2437
+5.SSID: I2Net 5 GHz, BSSID: 7c:d1:c3:c9:95:cb, capabilities: [WPA2-PSK-CCMP][ESS], level: -86, frequency: 5500
+6.SSID: eduroam, BSSID: 00:17:df:a7:de:cd, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 5540
+7.SSID: i10, BSSID: 00:1b:63:2d:83:8f, capabilities: [WPA-PSK-TKIP][WPA2-PSK-TKIP+CCMP][ESS], level: -88, frequency: 2462
+8.SSID: mops, BSSID: 00:17:df:a7:de:ce, capabilities: [ESS], level: -86, frequency: 5540
+Time passed (ms): 1363345923979
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -67, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -66, frequency: 5660
+3.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -74, frequency: 2437
+4.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -67, frequency: 2437
+5.SSID: I2Net 5 GHz, BSSID: 7c:d1:c3:c9:95:cb, capabilities: [WPA2-PSK-CCMP][ESS], level: -86, frequency: 5500
+6.SSID: eduroam, BSSID: 00:17:df:a7:de:cd, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 5540
+7.SSID: i10, BSSID: 00:1b:63:2d:83:8f, capabilities: [WPA-PSK-TKIP][WPA2-PSK-TKIP+CCMP][ESS], level: -88, frequency: 2462
+8.SSID: mops, BSSID: 00:17:df:a7:de:ce, capabilities: [ESS], level: -86, frequency: 5540
+Time passed (ms): 1363345927359
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -70, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -69, frequency: 5660
+3.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -77, frequency: 2437
+4.SSID: I2Net 5 GHz, BSSID: 7c:d1:c3:c9:95:cb, capabilities: [WPA2-PSK-CCMP][ESS], level: -86, frequency: 5500
+5.SSID: i10, BSSID: 00:1b:63:2d:83:8f, capabilities: [WPA-PSK-TKIP][WPA2-PSK-TKIP+CCMP][ESS], level: -92, frequency: 2462
+6.SSID: eduroam, BSSID: d0:c2:82:b6:86:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 5540
+7.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -92, frequency: 2462
+8.SSID: mops, BSSID: 00:17:df:a7:f4:71, capabilities: [ESS], level: -70, frequency: 2437
+9.SSID: mops, BSSID: d0:c2:82:b6:86:6e, capabilities: [ESS], level: -85, frequency: 5540
+Time passed (ms): 1363345927378
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -70, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -69, frequency: 5660
+3.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -77, frequency: 2437
+4.SSID: I2Net 5 GHz, BSSID: 7c:d1:c3:c9:95:cb, capabilities: [WPA2-PSK-CCMP][ESS], level: -86, frequency: 5500
+5.SSID: i10, BSSID: 00:1b:63:2d:83:8f, capabilities: [WPA-PSK-TKIP][WPA2-PSK-TKIP+CCMP][ESS], level: -92, frequency: 2462
+6.SSID: eduroam, BSSID: d0:c2:82:b6:86:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 5540
+7.SSID: KQOBOOUHMNYQMYNFFPIU, BSSID: 24:65:11:db:bf:00, capabilities: [WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS], level: -92, frequency: 2462
+8.SSID: mops, BSSID: 00:17:df:a7:f4:71, capabilities: [ESS], level: -70, frequency: 2437
+9.SSID: mops, BSSID: d0:c2:82:b6:86:6e, capabilities: [ESS], level: -85, frequency: 5540
+Time passed (ms): 1363345930842
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -61, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -61, frequency: 5660
+3.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -80, frequency: 2437
+4.SSID: i10, BSSID: 00:1b:63:2d:83:8f, capabilities: [WPA-PSK-TKIP][WPA2-PSK-TKIP+CCMP][ESS], level: -95, frequency: 2462
+5.SSID: eduroam, BSSID: d0:c2:82:b6:86:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5540
+6.SSID: mops, BSSID: d0:c2:82:b6:86:6e, capabilities: [ESS], level: -90, frequency: 5540
+7.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -71, frequency: 2437
+Time passed (ms): 1363345930862
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -61, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -61, frequency: 5660
+3.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -80, frequency: 2437
+4.SSID: i10, BSSID: 00:1b:63:2d:83:8f, capabilities: [WPA-PSK-TKIP][WPA2-PSK-TKIP+CCMP][ESS], level: -95, frequency: 2462
+5.SSID: eduroam, BSSID: d0:c2:82:b6:86:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5540
+6.SSID: mops, BSSID: d0:c2:82:b6:86:6e, capabilities: [ESS], level: -90, frequency: 5540
+7.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -71, frequency: 2437
+Time passed (ms): 1363345934244
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -59, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -59, frequency: 5660
+3.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -87, frequency: 2437
+4.SSID: mops, BSSID: d0:c2:82:b6:86:6e, capabilities: [ESS], level: -93, frequency: 5540
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -66, frequency: 2437
+6.SSID: mops, BSSID: 00:17:df:a7:f4:71, capabilities: [ESS], level: -66, frequency: 2437
+Time passed (ms): 1363345934251
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -59, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -59, frequency: 5660
+3.SSID: I2Net, BSSID: 7c:d1:c3:c9:95:ca, capabilities: [WPA2-PSK-CCMP][ESS], level: -87, frequency: 2437
+4.SSID: mops, BSSID: d0:c2:82:b6:86:6e, capabilities: [ESS], level: -93, frequency: 5540
+5.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -66, frequency: 2437
+6.SSID: mops, BSSID: 00:17:df:a7:f4:71, capabilities: [ESS], level: -66, frequency: 2437
+Time passed (ms): 1363345937675
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -53, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -53, frequency: 5660
+3.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -62, frequency: 2437
+4.SSID: eduroam, BSSID: 00:17:df:a7:de:cd, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 5540
+5.SSID: i10, BSSID: 00:1b:63:2d:91:ed, capabilities: [WPA-PSK-TKIP][WPA2-PSK-TKIP+CCMP][ESS], level: -85, frequency: 2437
+6.SSID: mops, BSSID: 00:17:df:a7:de:ce, capabilities: [ESS], level: -85, frequency: 5540
+Time passed (ms): 1363345937679
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -53, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -53, frequency: 5660
+3.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -62, frequency: 2437
+4.SSID: eduroam, BSSID: 00:17:df:a7:de:cd, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 5540
+5.SSID: i10, BSSID: 00:1b:63:2d:91:ed, capabilities: [WPA-PSK-TKIP][WPA2-PSK-TKIP+CCMP][ESS], level: -85, frequency: 2437
+6.SSID: mops, BSSID: 00:17:df:a7:de:ce, capabilities: [ESS], level: -85, frequency: 5540
+Time passed (ms): 1363345941018
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -81, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -79, frequency: 5660
+3.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -69, frequency: 2437
+4.SSID: eduroam, BSSID: 00:17:df:a7:de:cd, capabilities: [WPA2-EAP-CCMP][ESS], level: -73, frequency: 5540
+5.SSID: mops, BSSID: 00:17:df:a7:de:ce, capabilities: [ESS], level: -74, frequency: 5540
+6.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 5300
+7.SSID: mops, BSSID: 00:17:df:a7:f4:71, capabilities: [ESS], level: -66, frequency: 2437
+8.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -84, frequency: 5300
+Time passed (ms): 1363345941022
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -81, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -79, frequency: 5660
+3.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -69, frequency: 2437
+4.SSID: eduroam, BSSID: 00:17:df:a7:de:cd, capabilities: [WPA2-EAP-CCMP][ESS], level: -73, frequency: 5540
+5.SSID: mops, BSSID: 00:17:df:a7:de:ce, capabilities: [ESS], level: -74, frequency: 5540
+6.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 5300
+7.SSID: mops, BSSID: 00:17:df:a7:f4:71, capabilities: [ESS], level: -66, frequency: 2437
+8.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -84, frequency: 5300
+Time passed (ms): 1363345944408
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -85, frequency: 5660
+3.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 2437
+4.SSID: eduroam, BSSID: 00:17:df:a7:de:cd, capabilities: [WPA2-EAP-CCMP][ESS], level: -72, frequency: 5540
+5.SSID: mops, BSSID: 00:17:df:a7:de:ce, capabilities: [ESS], level: -73, frequency: 5540
+6.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 5300
+7.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -85, frequency: 5300
+8.SSID: mops, BSSID: 00:17:df:a7:de:c1, capabilities: [ESS], level: -74, frequency: 2412
+Time passed (ms): 1363345944426
+1.SSID: eduroam, BSSID: 00:17:df:a7:f4:7d, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 5660
+2.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -85, frequency: 5660
+3.SSID: eduroam, BSSID: 00:17:df:a7:f4:72, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 2437
+4.SSID: eduroam, BSSID: 00:17:df:a7:de:cd, capabilities: [WPA2-EAP-CCMP][ESS], level: -72, frequency: 5540
+5.SSID: mops, BSSID: 00:17:df:a7:de:ce, capabilities: [ESS], level: -73, frequency: 5540
+6.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 5300
+7.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -85, frequency: 5300
+8.SSID: mops, BSSID: 00:17:df:a7:de:c1, capabilities: [ESS], level: -74, frequency: 2412
+Time passed (ms): 1363345947848
+1.SSID: eduroam, BSSID: 00:17:df:a7:de:cd, capabilities: [WPA2-EAP-CCMP][ESS], level: -81, frequency: 5540
+2.SSID: mops, BSSID: 00:17:df:a7:de:ce, capabilities: [ESS], level: -81, frequency: 5540
+3.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -76, frequency: 5300
+4.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -77, frequency: 5300
+5.SSID: mops, BSSID: 00:17:df:a7:de:c1, capabilities: [ESS], level: -74, frequency: 2412
+6.SSID: eduroam, BSSID: 00:17:df:a7:de:c2, capabilities: [WPA2-EAP-CCMP][ESS], level: -73, frequency: 2412
+7.SSID: eduroam, BSSID: 00:17:df:a7:e5:42, capabilities: [WPA2-EAP-CCMP][ESS], level: -75, frequency: 2462
+8.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -75, frequency: 2462
+9.SSID: mops, BSSID: 00:17:df:a7:f4:71, capabilities: [ESS], level: -86, frequency: 2437
+Time passed (ms): 1363345947852
+1.SSID: eduroam, BSSID: 00:17:df:a7:de:cd, capabilities: [WPA2-EAP-CCMP][ESS], level: -81, frequency: 5540
+2.SSID: mops, BSSID: 00:17:df:a7:de:ce, capabilities: [ESS], level: -81, frequency: 5540
+3.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -76, frequency: 5300
+4.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -77, frequency: 5300
+5.SSID: mops, BSSID: 00:17:df:a7:de:c1, capabilities: [ESS], level: -74, frequency: 2412
+6.SSID: eduroam, BSSID: 00:17:df:a7:de:c2, capabilities: [WPA2-EAP-CCMP][ESS], level: -73, frequency: 2412
+7.SSID: eduroam, BSSID: 00:17:df:a7:e5:42, capabilities: [WPA2-EAP-CCMP][ESS], level: -75, frequency: 2462
+8.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -75, frequency: 2462
+9.SSID: mops, BSSID: 00:17:df:a7:f4:71, capabilities: [ESS], level: -86, frequency: 2437
+Time passed (ms): 1363345951279
+1.SSID: eduroam, BSSID: 00:17:df:a7:de:cd, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5540
+2.SSID: mops, BSSID: 00:17:df:a7:de:ce, capabilities: [ESS], level: -89, frequency: 5540
+3.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -74, frequency: 5300
+4.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -73, frequency: 5300
+5.SSID: mops, BSSID: 00:17:df:a7:de:c1, capabilities: [ESS], level: -85, frequency: 2412
+6.SSID: eduroam, BSSID: 00:17:df:a7:e5:42, capabilities: [WPA2-EAP-CCMP][ESS], level: -68, frequency: 2462
+7.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -71, frequency: 2462
+8.SSID: mops, BSSID: 00:17:df:a7:e2:6e, capabilities: [ESS], level: -94, frequency: 5320
+Time passed (ms): 1363345951304
+1.SSID: eduroam, BSSID: 00:17:df:a7:de:cd, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5540
+2.SSID: mops, BSSID: 00:17:df:a7:de:ce, capabilities: [ESS], level: -89, frequency: 5540
+3.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -74, frequency: 5300
+4.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -73, frequency: 5300
+5.SSID: mops, BSSID: 00:17:df:a7:de:c1, capabilities: [ESS], level: -85, frequency: 2412
+6.SSID: eduroam, BSSID: 00:17:df:a7:e5:42, capabilities: [WPA2-EAP-CCMP][ESS], level: -68, frequency: 2462
+7.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -71, frequency: 2462
+8.SSID: mops, BSSID: 00:17:df:a7:e2:6e, capabilities: [ESS], level: -94, frequency: 5320
+Time passed (ms): 1363345954778
+1.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 5300
+2.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -85, frequency: 5300
+3.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -79, frequency: 2462
+4.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 2437
+Time passed (ms): 1363345954780
+1.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 5300
+2.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -85, frequency: 5300
+3.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -79, frequency: 2462
+4.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 2437
+Time passed (ms): 1363345958217
+1.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 5300
+2.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -87, frequency: 5300
+3.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -74, frequency: 2462
+4.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -79, frequency: 2437
+5.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 2462
+6.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -92, frequency: 5660
+Time passed (ms): 1363345958239
+1.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 5300
+2.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -87, frequency: 5300
+3.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -74, frequency: 2462
+4.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -79, frequency: 2437
+5.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 2462
+6.SSID: mops, BSSID: 00:17:df:a7:f4:7e, capabilities: [ESS], level: -92, frequency: 5660
+Time passed (ms): 1363345961666
+1.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -72, frequency: 5300
+2.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -72, frequency: 5300
+3.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -71, frequency: 2462
+4.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 2437
+5.SSID: eduroam, BSSID: 00:17:df:a7:de:cd, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5540
+6.SSID: eduroam, BSSID: e8:04:62:23:ba:3d, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 5660
+7.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -94, frequency: 2457
+8.SSID: mops, BSSID: 00:17:df:a7:de:ce, capabilities: [ESS], level: -89, frequency: 5540
+9.SSID: mops, BSSID: e8:04:62:23:ba:3e, capabilities: [ESS], level: -92, frequency: 5660
+10.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -91, frequency: 2457
+Time passed (ms): 1363345961675
+1.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -72, frequency: 5300
+2.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -72, frequency: 5300
+3.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -71, frequency: 2462
+4.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 2437
+5.SSID: eduroam, BSSID: 00:17:df:a7:de:cd, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5540
+6.SSID: eduroam, BSSID: e8:04:62:23:ba:3d, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 5660
+7.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -94, frequency: 2457
+8.SSID: mops, BSSID: 00:17:df:a7:de:ce, capabilities: [ESS], level: -89, frequency: 5540
+9.SSID: mops, BSSID: e8:04:62:23:ba:3e, capabilities: [ESS], level: -92, frequency: 5660
+10.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -91, frequency: 2457
+Time passed (ms): 1363345965102
+1.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -69, frequency: 5300
+2.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -70, frequency: 5300
+3.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -71, frequency: 2462
+4.SSID: eduroam, BSSID: e8:04:62:23:ba:3d, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 5660
+5.SSID: mops, BSSID: e8:04:62:23:ba:3e, capabilities: [ESS], level: -83, frequency: 5660
+6.SSID: eduroam, BSSID: 00:17:df:a7:e5:42, capabilities: [WPA2-EAP-CCMP][ESS], level: -70, frequency: 2462
+7.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2462
+Time passed (ms): 1363345965127
+1.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -69, frequency: 5300
+2.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -70, frequency: 5300
+3.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -71, frequency: 2462
+4.SSID: eduroam, BSSID: e8:04:62:23:ba:3d, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 5660
+5.SSID: mops, BSSID: e8:04:62:23:ba:3e, capabilities: [ESS], level: -83, frequency: 5660
+6.SSID: eduroam, BSSID: 00:17:df:a7:e5:42, capabilities: [WPA2-EAP-CCMP][ESS], level: -70, frequency: 2462
+7.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2462
+Time passed (ms): 1363345968510
+1.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 5300
+2.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -88, frequency: 5300
+3.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -78, frequency: 2462
+4.SSID: eduroam, BSSID: e8:04:62:23:ba:3d, capabilities: [WPA2-EAP-CCMP][ESS], level: -79, frequency: 5660
+5.SSID: mops, BSSID: e8:04:62:23:ba:3e, capabilities: [ESS], level: -80, frequency: 5660
+6.SSID: eduroam, BSSID: 00:17:df:a7:e5:42, capabilities: [WPA2-EAP-CCMP][ESS], level: -77, frequency: 2462
+7.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 2462
+8.SSID: eduroam, BSSID: 00:17:df:a7:e2:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -80, frequency: 5320
+9.SSID: eduroam, BSSID: e8:04:62:23:ba:32, capabilities: [WPA2-EAP-CCMP][ESS], level: -77, frequency: 2462
+10.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 2437
+11.SSID: mops, BSSID: 00:17:df:a7:e2:6e, capabilities: [ESS], level: -80, frequency: 5320
+12.SSID: mops, BSSID: e8:04:62:23:ba:31, capabilities: [ESS], level: -77, frequency: 2462
+13.SSID: mops, BSSID: 00:17:df:a7:e2:61, capabilities: [ESS], level: -87, frequency: 2437
+Time passed (ms): 1363345968517
+1.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 5300
+2.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -88, frequency: 5300
+3.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -78, frequency: 2462
+4.SSID: eduroam, BSSID: e8:04:62:23:ba:3d, capabilities: [WPA2-EAP-CCMP][ESS], level: -79, frequency: 5660
+5.SSID: mops, BSSID: e8:04:62:23:ba:3e, capabilities: [ESS], level: -80, frequency: 5660
+6.SSID: eduroam, BSSID: 00:17:df:a7:e5:42, capabilities: [WPA2-EAP-CCMP][ESS], level: -77, frequency: 2462
+7.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 2462
+8.SSID: eduroam, BSSID: 00:17:df:a7:e2:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -80, frequency: 5320
+9.SSID: eduroam, BSSID: e8:04:62:23:ba:32, capabilities: [WPA2-EAP-CCMP][ESS], level: -77, frequency: 2462
+10.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 2437
+11.SSID: mops, BSSID: 00:17:df:a7:e2:6e, capabilities: [ESS], level: -80, frequency: 5320
+12.SSID: mops, BSSID: e8:04:62:23:ba:31, capabilities: [ESS], level: -77, frequency: 2462
+13.SSID: mops, BSSID: 00:17:df:a7:e2:61, capabilities: [ESS], level: -87, frequency: 2437
+Time passed (ms): 1363345971974
+1.SSID: eduroam, BSSID: e8:04:62:23:ba:3d, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 5660
+2.SSID: mops, BSSID: e8:04:62:23:ba:3e, capabilities: [ESS], level: -84, frequency: 5660
+3.SSID: eduroam, BSSID: 00:17:df:a7:e2:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -77, frequency: 5320
+4.SSID: eduroam, BSSID: e8:04:62:23:ba:32, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 2462
+5.SSID: mops, BSSID: 00:17:df:a7:e2:6e, capabilities: [ESS], level: -78, frequency: 5320
+6.SSID: mops, BSSID: e8:04:62:23:ba:31, capabilities: [ESS], level: -81, frequency: 2462
+7.SSID: mops, BSSID: 00:17:df:a7:e2:61, capabilities: [ESS], level: -83, frequency: 2437
+Time passed (ms): 1363345971989
+1.SSID: eduroam, BSSID: e8:04:62:23:ba:3d, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 5660
+2.SSID: mops, BSSID: e8:04:62:23:ba:3e, capabilities: [ESS], level: -84, frequency: 5660
+3.SSID: eduroam, BSSID: 00:17:df:a7:e2:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -77, frequency: 5320
+4.SSID: eduroam, BSSID: e8:04:62:23:ba:32, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 2462
+5.SSID: mops, BSSID: 00:17:df:a7:e2:6e, capabilities: [ESS], level: -78, frequency: 5320
+6.SSID: mops, BSSID: e8:04:62:23:ba:31, capabilities: [ESS], level: -81, frequency: 2462
+7.SSID: mops, BSSID: 00:17:df:a7:e2:61, capabilities: [ESS], level: -83, frequency: 2437
+Time passed (ms): 1363345975393
+1.SSID: eduroam, BSSID: e8:04:62:23:ba:3d, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 5660
+2.SSID: mops, BSSID: e8:04:62:23:ba:3e, capabilities: [ESS], level: -85, frequency: 5660
+3.SSID: eduroam, BSSID: 00:17:df:a7:e2:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -75, frequency: 5320
+4.SSID: eduroam, BSSID: e8:04:62:23:ba:32, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 2462
+5.SSID: mops, BSSID: 00:17:df:a7:e2:6e, capabilities: [ESS], level: -75, frequency: 5320
+6.SSID: mops, BSSID: e8:04:62:23:ba:31, capabilities: [ESS], level: -77, frequency: 2462
+7.SSID: eduroam, BSSID: 00:17:df:a7:e2:62, capabilities: [WPA2-EAP-CCMP][ESS], level: -74, frequency: 2437
+8.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 2462
+Time passed (ms): 1363345975397
+1.SSID: eduroam, BSSID: e8:04:62:23:ba:3d, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 5660
+2.SSID: mops, BSSID: e8:04:62:23:ba:3e, capabilities: [ESS], level: -85, frequency: 5660
+3.SSID: eduroam, BSSID: 00:17:df:a7:e2:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -75, frequency: 5320
+4.SSID: eduroam, BSSID: e8:04:62:23:ba:32, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 2462
+5.SSID: mops, BSSID: 00:17:df:a7:e2:6e, capabilities: [ESS], level: -75, frequency: 5320
+6.SSID: mops, BSSID: e8:04:62:23:ba:31, capabilities: [ESS], level: -77, frequency: 2462
+7.SSID: eduroam, BSSID: 00:17:df:a7:e2:62, capabilities: [WPA2-EAP-CCMP][ESS], level: -74, frequency: 2437
+8.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 2462
+Time passed (ms): 1363345978855
+1.SSID: eduroam, BSSID: e8:04:62:23:ba:3d, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5660
+2.SSID: mops, BSSID: e8:04:62:23:ba:3e, capabilities: [ESS], level: -86, frequency: 5660
+3.SSID: eduroam, BSSID: 00:17:df:a7:e2:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -77, frequency: 5320
+4.SSID: eduroam, BSSID: e8:04:62:23:ba:32, capabilities: [WPA2-EAP-CCMP][ESS], level: -76, frequency: 2462
+5.SSID: mops, BSSID: 00:17:df:a7:e2:6e, capabilities: [ESS], level: -77, frequency: 5320
+6.SSID: mops, BSSID: e8:04:62:23:ba:31, capabilities: [ESS], level: -75, frequency: 2462
+7.SSID: eduroam, BSSID: 00:17:df:a7:e2:62, capabilities: [WPA2-EAP-CCMP][ESS], level: -74, frequency: 2437
+8.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 5300
+9.SSID: mops, BSSID: 00:17:df:a7:e2:61, capabilities: [ESS], level: -72, frequency: 2437
+10.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -87, frequency: 5300
+Time passed (ms): 1363345978875
+1.SSID: eduroam, BSSID: e8:04:62:23:ba:3d, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 5660
+2.SSID: mops, BSSID: e8:04:62:23:ba:3e, capabilities: [ESS], level: -86, frequency: 5660
+3.SSID: eduroam, BSSID: 00:17:df:a7:e2:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -77, frequency: 5320
+4.SSID: eduroam, BSSID: e8:04:62:23:ba:32, capabilities: [WPA2-EAP-CCMP][ESS], level: -76, frequency: 2462
+5.SSID: mops, BSSID: 00:17:df:a7:e2:6e, capabilities: [ESS], level: -77, frequency: 5320
+6.SSID: mops, BSSID: e8:04:62:23:ba:31, capabilities: [ESS], level: -75, frequency: 2462
+7.SSID: eduroam, BSSID: 00:17:df:a7:e2:62, capabilities: [WPA2-EAP-CCMP][ESS], level: -74, frequency: 2437
+8.SSID: eduroam, BSSID: 00:17:df:a7:e5:4d, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 5300
+9.SSID: mops, BSSID: 00:17:df:a7:e2:61, capabilities: [ESS], level: -72, frequency: 2437
+10.SSID: mops, BSSID: 00:17:df:a7:e5:4e, capabilities: [ESS], level: -87, frequency: 5300
+Time passed (ms): 1363345982257
+1.SSID: eduroam, BSSID: e8:04:62:23:ba:3d, capabilities: [WPA2-EAP-CCMP][ESS], level: -80, frequency: 5660
+2.SSID: mops, BSSID: e8:04:62:23:ba:3e, capabilities: [ESS], level: -83, frequency: 5660
+3.SSID: eduroam, BSSID: 00:17:df:a7:e2:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 5320
+4.SSID: mops, BSSID: 00:17:df:a7:e2:6e, capabilities: [ESS], level: -78, frequency: 5320
+5.SSID: mops, BSSID: e8:04:62:23:ba:31, capabilities: [ESS], level: -74, frequency: 2462
+6.SSID: mops, BSSID: 00:17:df:a7:e2:61, capabilities: [ESS], level: -80, frequency: 2437
+Time passed (ms): 1363345982259
+1.SSID: eduroam, BSSID: e8:04:62:23:ba:3d, capabilities: [WPA2-EAP-CCMP][ESS], level: -80, frequency: 5660
+2.SSID: mops, BSSID: e8:04:62:23:ba:3e, capabilities: [ESS], level: -83, frequency: 5660
+3.SSID: eduroam, BSSID: 00:17:df:a7:e2:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 5320
+4.SSID: mops, BSSID: 00:17:df:a7:e2:6e, capabilities: [ESS], level: -78, frequency: 5320
+5.SSID: mops, BSSID: e8:04:62:23:ba:31, capabilities: [ESS], level: -74, frequency: 2462
+6.SSID: mops, BSSID: 00:17:df:a7:e2:61, capabilities: [ESS], level: -80, frequency: 2437
+Time passed (ms): 1363345985732
+1.SSID: mops, BSSID: e8:04:62:23:ba:3e, capabilities: [ESS], level: -89, frequency: 5660
+2.SSID: eduroam, BSSID: 00:17:df:a7:e2:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -77, frequency: 5320
+3.SSID: mops, BSSID: 00:17:df:a7:e2:6e, capabilities: [ESS], level: -78, frequency: 5320
+4.SSID: mops, BSSID: 00:17:df:a7:e2:61, capabilities: [ESS], level: -80, frequency: 2437
+5.SSID: eduroam, BSSID: 00:17:df:a7:e2:62, capabilities: [WPA2-EAP-CCMP][ESS], level: -80, frequency: 2437
+6.SSID: eduroam, BSSID: e8:04:62:23:ba:32, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 2462
+Time passed (ms): 1363345985752
+1.SSID: mops, BSSID: e8:04:62:23:ba:3e, capabilities: [ESS], level: -89, frequency: 5660
+2.SSID: eduroam, BSSID: 00:17:df:a7:e2:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -77, frequency: 5320
+3.SSID: mops, BSSID: 00:17:df:a7:e2:6e, capabilities: [ESS], level: -78, frequency: 5320
+4.SSID: mops, BSSID: 00:17:df:a7:e2:61, capabilities: [ESS], level: -80, frequency: 2437
+5.SSID: eduroam, BSSID: 00:17:df:a7:e2:62, capabilities: [WPA2-EAP-CCMP][ESS], level: -80, frequency: 2437
+6.SSID: eduroam, BSSID: e8:04:62:23:ba:32, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 2462
+Time passed (ms): 1363345989188
+1.SSID: eduroam, BSSID: 00:17:df:a7:e2:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5320
+2.SSID: mops, BSSID: 00:17:df:a7:e2:6e, capabilities: [ESS], level: -87, frequency: 5320
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7f, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 5200
+4.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -82, frequency: 2437
+5.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 2462
+6.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ac, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5240
+7.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -90, frequency: 2457
+8.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -91, frequency: 2457
+9.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -90, frequency: 2457
+Time passed (ms): 1363345989219
+1.SSID: eduroam, BSSID: 00:17:df:a7:e2:6d, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5320
+2.SSID: mops, BSSID: 00:17:df:a7:e2:6e, capabilities: [ESS], level: -87, frequency: 5320
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7f, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 5200
+4.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -82, frequency: 2437
+5.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 2462
+6.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ac, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5240
+7.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -90, frequency: 2457
+8.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -91, frequency: 2457
+9.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -90, frequency: 2457
+Time passed (ms): 1363345992660
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -76, frequency: 2437
+2.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -77, frequency: 2462
+3.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ac, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 5240
+4.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -85, frequency: 2457
+5.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -85, frequency: 2457
+6.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -85, frequency: 2457
+7.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2462
+8.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -87, frequency: 2462
+Time passed (ms): 1363345992665
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -76, frequency: 2437
+2.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -77, frequency: 2462
+3.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ac, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 5240
+4.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -85, frequency: 2457
+5.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -85, frequency: 2457
+6.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -85, frequency: 2457
+7.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2462
+8.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -87, frequency: 2462

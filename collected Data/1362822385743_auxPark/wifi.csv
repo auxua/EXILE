@@ -1,0 +1,324 @@
+Time passed (ms): 1362822386568
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -81, frequency: 2437
+2.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 2462
+3.SSID: eduroam, BSSID: 00:17:df:a7:e5:42, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2462
+4.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7f, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 5200
+5.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -85, frequency: 2462
+Time passed (ms): 1362822386585
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -81, frequency: 2437
+2.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 2462
+3.SSID: eduroam, BSSID: 00:17:df:a7:e5:42, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2462
+4.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7f, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 5200
+5.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -85, frequency: 2462
+Time passed (ms): 1362822390043
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 2437
+2.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2462
+4.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -90, frequency: 2457
+5.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -91, frequency: 2457
+6.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -93, frequency: 2457
+Time passed (ms): 1362822390057
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 2437
+2.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2462
+4.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -90, frequency: 2457
+5.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -91, frequency: 2457
+6.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -93, frequency: 2457
+Time passed (ms): 1362822393548
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 2437
+2.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 2462
+4.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -95, frequency: 2437
+5.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -89, frequency: 2462
+Time passed (ms): 1362822393550
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 2437
+2.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 2462
+4.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -95, frequency: 2437
+5.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -89, frequency: 2462
+Time passed (ms): 1362822397064
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -82, frequency: 2437
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:f0, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 5200
+4.SSID: halifax_wlan, BSSID: 54:e6:fc:d5:2b:40, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 2412
+Time passed (ms): 1362822397084
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -82, frequency: 2437
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:f0, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 5200
+4.SSID: halifax_wlan, BSSID: 54:e6:fc:d5:2b:40, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 2412
+Time passed (ms): 1362822400548
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2437
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:f0, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 5200
+4.SSID: halifax_wlan, BSSID: 54:e6:fc:d5:2b:40, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 2412
+5.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 2462
+6.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -90, frequency: 2457
+7.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -91, frequency: 2457
+8.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -93, frequency: 2432
+9.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -94, frequency: 2432
+10.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -91, frequency: 2457
+11.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -91, frequency: 2432
+Time passed (ms): 1362822400566
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2437
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:f0, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 5200
+4.SSID: halifax_wlan, BSSID: 54:e6:fc:d5:2b:40, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 2412
+5.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 2462
+6.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -90, frequency: 2457
+7.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -91, frequency: 2457
+8.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -93, frequency: 2432
+9.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -94, frequency: 2432
+10.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -91, frequency: 2457
+11.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -91, frequency: 2432
+Time passed (ms): 1362822404054
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -82, frequency: 2437
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 54:e6:fc:d5:2b:40, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 2412
+4.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -76, frequency: 2462
+5.SSID: halifax_wlan, BSSID: 84:c9:b2:6e:c9:8e, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 2462
+6.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 2437
+Time passed (ms): 1362822404065
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -82, frequency: 2437
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 54:e6:fc:d5:2b:40, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 2412
+4.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -76, frequency: 2462
+5.SSID: halifax_wlan, BSSID: 84:c9:b2:6e:c9:8e, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 2462
+6.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 2437
+Time passed (ms): 1362822407543
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 2437
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 2462
+3.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -80, frequency: 2462
+4.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -92, frequency: 2457
+5.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -92, frequency: 2457
+6.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -94, frequency: 2432
+7.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -94, frequency: 2432
+8.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -92, frequency: 2457
+9.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -92, frequency: 2432
+Time passed (ms): 1362822407551
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 2437
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 2462
+3.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -80, frequency: 2462
+4.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -92, frequency: 2457
+5.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -92, frequency: 2457
+6.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -94, frequency: 2432
+7.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -94, frequency: 2432
+8.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -92, frequency: 2457
+9.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -92, frequency: 2432
+Time passed (ms): 1362822411034
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2437
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2462
+3.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 2462
+4.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -92, frequency: 2457
+5.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -93, frequency: 2457
+6.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -91, frequency: 2432
+7.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -91, frequency: 2432
+8.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -90, frequency: 2457
+9.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -88, frequency: 2432
+10.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c5:2e, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 2462
+11.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 2437
+12.SSID: halifax_wlan, BSSID: 84:c9:b2:6e:c9:8e, capabilities: [WPA2-EAP-CCMP][ESS], level: -95, frequency: 2462
+Time passed (ms): 1362822411064
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2437
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2462
+3.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 2462
+4.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -92, frequency: 2457
+5.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -93, frequency: 2457
+6.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -91, frequency: 2432
+7.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -91, frequency: 2432
+8.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -90, frequency: 2457
+9.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -88, frequency: 2432
+10.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c5:2e, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 2462
+11.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 2437
+12.SSID: halifax_wlan, BSSID: 84:c9:b2:6e:c9:8e, capabilities: [WPA2-EAP-CCMP][ESS], level: -95, frequency: 2462
+Time passed (ms): 1362822414493
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 2437
+2.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2462
+3.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -94, frequency: 2457
+4.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -92, frequency: 2457
+5.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -92, frequency: 2432
+6.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -90, frequency: 2432
+7.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -90, frequency: 2432
+8.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 2437
+9.SSID: halifax_wlan, BSSID: 54:e6:fc:d5:2b:40, capabilities: [WPA2-EAP-CCMP][ESS], level: -95, frequency: 2412
+Time passed (ms): 1362822414498
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 2437
+2.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2462
+3.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -94, frequency: 2457
+4.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -92, frequency: 2457
+5.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -92, frequency: 2432
+6.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -90, frequency: 2432
+7.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -90, frequency: 2432
+8.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 2437
+9.SSID: halifax_wlan, BSSID: 54:e6:fc:d5:2b:40, capabilities: [WPA2-EAP-CCMP][ESS], level: -95, frequency: 2412
+Time passed (ms): 1362822417985
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 2437
+2.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 2462
+3.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -95, frequency: 2457
+4.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -93, frequency: 2457
+5.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 2437
+6.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ac, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5240
+7.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 2462
+Time passed (ms): 1362822418004
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 2437
+2.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 2462
+3.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -95, frequency: 2457
+4.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -93, frequency: 2457
+5.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 2437
+6.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ac, capabilities: [WPA2-EAP-CCMP][ESS], level: -89, frequency: 5240
+7.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 2462
+Time passed (ms): 1362822421454
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 2437
+2.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 2462
+3.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -92, frequency: 2457
+4.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -93, frequency: 2457
+5.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 2437
+6.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ac, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 5240
+7.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 2462
+8.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -94, frequency: 2432
+9.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -94, frequency: 2432
+10.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -90, frequency: 2457
+11.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -94, frequency: 2432
+Time passed (ms): 1362822421458
+1.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 2437
+2.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 2462
+3.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -92, frequency: 2457
+4.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -93, frequency: 2457
+5.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -90, frequency: 2437
+6.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ac, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 5240
+7.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 2462
+8.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -94, frequency: 2432
+9.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -94, frequency: 2432
+10.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -90, frequency: 2457
+11.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -94, frequency: 2432
+Time passed (ms): 1362822424954
+1.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 2462
+2.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 2437
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -82, frequency: 2462
+4.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -90, frequency: 2432
+5.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -91, frequency: 2432
+6.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -94, frequency: 2432
+Time passed (ms): 1362822424972
+1.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 2462
+2.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 2437
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -82, frequency: 2462
+4.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -90, frequency: 2432
+5.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -91, frequency: 2432
+6.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -94, frequency: 2432
+Time passed (ms): 1362822428419
+1.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 2462
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -82, frequency: 2437
+4.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ac, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 5240
+5.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:f0, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 5200
+6.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -90, frequency: 2457
+7.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -91, frequency: 2457
+8.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -90, frequency: 2457
+Time passed (ms): 1362822428431
+1.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 2462
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -82, frequency: 2437
+4.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ac, capabilities: [WPA2-EAP-CCMP][ESS], level: -91, frequency: 5240
+5.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:f0, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 5200
+6.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -90, frequency: 2457
+7.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -91, frequency: 2457
+8.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -90, frequency: 2457
+Time passed (ms): 1362822431891
+1.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2462
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 2437
+4.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ac, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 5240
+Time passed (ms): 1362822431904
+1.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2462
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -83, frequency: 2437
+4.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ac, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 5240
+Time passed (ms): 1362822435365
+1.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 2462
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 2437
+4.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ac, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 5240
+5.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -87, frequency: 2457
+6.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -87, frequency: 2457
+7.SSID: halifax_wlan, BSSID: 54:e6:fc:d5:2b:40, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2412
+8.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -90, frequency: 2432
+9.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -90, frequency: 2432
+10.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 2437
+11.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c5:2e, capabilities: [WPA2-EAP-CCMP][ESS], level: -99, frequency: 2462
+12.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -86, frequency: 2457
+13.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -87, frequency: 2432
+Time passed (ms): 1362822435375
+1.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 2462
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 2437
+4.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ac, capabilities: [WPA2-EAP-CCMP][ESS], level: -86, frequency: 5240
+5.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -87, frequency: 2457
+6.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -87, frequency: 2457
+7.SSID: halifax_wlan, BSSID: 54:e6:fc:d5:2b:40, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2412
+8.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -90, frequency: 2432
+9.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -90, frequency: 2432
+10.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -92, frequency: 2437
+11.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c5:2e, capabilities: [WPA2-EAP-CCMP][ESS], level: -99, frequency: 2462
+12.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -86, frequency: 2457
+13.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -87, frequency: 2432
+Time passed (ms): 1362822438846
+1.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -73, frequency: 2462
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 2437
+4.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ac, capabilities: [WPA2-EAP-CCMP][ESS], level: -82, frequency: 5240
+5.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -84, frequency: 2457
+6.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -87, frequency: 2457
+7.SSID: halifax_wlan, BSSID: 54:e6:fc:d5:2b:40, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 2412
+8.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -93, frequency: 2432
+9.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -91, frequency: 2432
+10.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 2437
+11.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -87, frequency: 2457
+12.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -91, frequency: 2432
+13.SSID: eduroam, BSSID: 00:17:df:a7:e5:42, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2462
+14.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -85, frequency: 2462
+Time passed (ms): 1362822438874
+1.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -73, frequency: 2462
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -84, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 2437
+4.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ac, capabilities: [WPA2-EAP-CCMP][ESS], level: -82, frequency: 5240
+5.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -84, frequency: 2457
+6.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -87, frequency: 2457
+7.SSID: halifax_wlan, BSSID: 54:e6:fc:d5:2b:40, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 2412
+8.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -93, frequency: 2432
+9.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -91, frequency: 2432
+10.SSID: halifax_wlan, BSSID: 00:18:e7:fb:b4:8d, capabilities: [WPA2-EAP-CCMP][ESS], level: -93, frequency: 2437
+11.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -87, frequency: 2457
+12.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -91, frequency: 2432
+13.SSID: eduroam, BSSID: 00:17:df:a7:e5:42, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2462
+14.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -85, frequency: 2462
+Time passed (ms): 1362822442321
+1.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -76, frequency: 2462
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -81, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -73, frequency: 2437
+4.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ac, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 5240
+5.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -84, frequency: 2457
+6.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -85, frequency: 2457
+7.SSID: halifax_wlan, BSSID: 54:e6:fc:d5:2b:40, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2412
+8.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -93, frequency: 2432
+9.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -91, frequency: 2432
+10.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -84, frequency: 2457
+11.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -92, frequency: 2432
+12.SSID: eduroam, BSSID: 00:17:df:a7:e5:42, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2462
+13.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -85, frequency: 2462
+14.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7f, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 5200
+15.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:9b, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2462
+Time passed (ms): 1362822442331
+1.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ab, capabilities: [WPA2-EAP-CCMP][ESS], level: -76, frequency: 2462
+2.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:ef, capabilities: [WPA2-EAP-CCMP][ESS], level: -81, frequency: 2462
+3.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7e, capabilities: [WPA2-EAP-CCMP][ESS], level: -73, frequency: 2437
+4.SSID: halifax_wlan, BSSID: b8:a3:86:4c:c3:ac, capabilities: [WPA2-EAP-CCMP][ESS], level: -87, frequency: 5240
+5.SSID: eduroam, BSSID: 02:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -84, frequency: 2457
+6.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:ac, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -85, frequency: 2457
+7.SSID: halifax_wlan, BSSID: 54:e6:fc:d5:2b:40, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2412
+8.SSID: eduroam, BSSID: 02:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP-preauth][ESS], level: -93, frequency: 2432
+9.SSID: eduroam-WPAonly, BSSID: 06:0f:a3:1a:11:bd, capabilities: [WPA-EAP-TKIP+CCMP][ESS], level: -91, frequency: 2432
+10.SSID: mops, BSSID: 00:0f:a3:1a:11:ac, capabilities: [ESS], level: -84, frequency: 2457
+11.SSID: mops, BSSID: 00:0f:a3:1a:11:bd, capabilities: [ESS], level: -92, frequency: 2432
+12.SSID: eduroam, BSSID: 00:17:df:a7:e5:42, capabilities: [WPA2-EAP-CCMP][ESS], level: -85, frequency: 2462
+13.SSID: mops, BSSID: 00:17:df:a7:e5:41, capabilities: [ESS], level: -85, frequency: 2462
+14.SSID: halifax_wlan, BSSID: 00:18:e7:d4:38:7f, capabilities: [WPA2-EAP-CCMP][ESS], level: -78, frequency: 5200
+15.SSID: halifax_wlan, BSSID: 00:18:e7:d4:36:9b, capabilities: [WPA2-EAP-CCMP][ESS], level: -88, frequency: 2462

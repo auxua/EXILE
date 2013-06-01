@@ -1,0 +1,7 @@
+[a] 0.5
+[peak] 0.5
+[ms_timeout] 999
+[detSteps] 41
+[stepSize] 90
+[est_path_ length] 3690
+[map] /mnt/sdcard/dCollector/hoern_park.osm
